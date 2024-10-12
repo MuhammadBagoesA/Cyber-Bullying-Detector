@@ -1,0 +1,5519 @@
+[
+  {
+    "id": 0,
+    "kalimat": "JUAL MAKANAN ANJING (DOG FOOD) HAPPY DOG MURAH HARGA PROMO",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1,
+    "kalimat": "JUAL GROSIR MAKANAN ANJING MAKANAN KUCING UNTUK PETSHOP",
+    "sentimen": "positif"
+  },
+  {
+    "id": 2,
+    "kalimat": "Jangan mentang-mentang lu anak Gaul. Pas dikejar anjing bukannya lari malah bilang 'terus Gue harus kabur sambil bilang wow gitu?'",
+    "sentimen": "positif"
+  },
+  {
+    "id": 3,
+    "kalimat": "Males itu kalo kerja pagi trus gak ada yg nganter, anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 4,
+    "kalimat": "Pagi ini cuma mau panggil anjing aja buat elo yang naik motornya ugal ugalan.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 5,
+    "kalimat": "Mau tanya, hukumya org Islam pelihara anjing? Kan byk kalangan artis yg plihara?",
+    "sentimen": "positif"
+  },
+  {
+    "id": 6,
+    "kalimat": "Cuma karena anjing... okay",
+    "sentimen": "positif"
+  },
+  {
+    "id": 7,
+    "kalimat": "sok geulis anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 8,
+    "kalimat": "Cokelat merupakan racun bagi anjing dan kucing.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 9,
+    "kalimat": "anjing jg lo ler",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 10,
+    "kalimat": "Wah aku memelihara anjing n kucing nih",
+    "sentimen": "positif"
+  },
+  {
+    "id": 11,
+    "kalimat": "So Sweet, Pemain Ini Gendong Anjing Pengganggu Laga",
+    "sentimen": "positif"
+  },
+  {
+    "id": 12,
+    "kalimat": "Anak anjing jantan sengaja membuat anak anjing betina menang ketika mereka sedang bermain",
+    "sentimen": "positif"
+  },
+  {
+    "id": 13,
+    "kalimat": "Sesama anjing putih berantem",
+    "sentimen": "positif"
+  },
+  {
+    "id": 14,
+    "kalimat": "kesel deh pagi2 anjing ku masa mau gigit perban kakiku",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 15,
+    "kalimat": "Lancau anjing.. stressnya aku..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 16,
+    "kalimat": "Pada Mei 2007, Mourinho sempat ditangkap karena diduga menghalangi Polisi yang hendak mengkarantina anjing peliharaannya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 17,
+    "kalimat": "Pria Asal China Tewas karena Selfie dengan Anjing Laut",
+    "sentimen": "positif"
+  },
+  {
+    "id": 18,
+    "kalimat": "Mana yang lebih lucu, anak anjing atau anak kucing?",
+    "sentimen": "positif"
+  },
+  {
+    "id": 19,
+    "kalimat": "Di New Jersey dari Department of Corrections melatih anjing untuk mengendus ponsel tersembunyi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 20,
+    "kalimat": "Tadinya mau beli anjing buat jadi temen. Tapi, udah banyak temen yang pada kaya anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 21,
+    "kalimat": "nyepam bgt anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 22,
+    "kalimat": "anjing emang ganggu ya gonggong terus huf",
+    "sentimen": "positif"
+  },
+  {
+    "id": 23,
+    "kalimat": "Dulu sih sayang sayangan udah putus eh anjing anjingan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 24,
+    "kalimat": "Cokelat dan kismis  dapat membunuh anjing.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 25,
+    "kalimat": "Anjing tolol ini ikut2an ngomongin kepercayaan orang lain dasar tolol urus saja kepercayaan kau kasian Deh.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 26,
+    "kalimat": "Baru kali ini jogging di sini, dan pas di jalan baru sadar di sini banyak anjing berkeliaran",
+    "sentimen": "positif"
+  },
+  {
+    "id": 27,
+    "kalimat": "Pengen anjing kayak gini sayang",
+    "sentimen": "positif"
+  },
+  {
+    "id": 28,
+    "kalimat": "Hp rusak anjing ah",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 29,
+    "kalimat": "Si anjing jualan obat.. wkwk",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 30,
+    "kalimat": "Penyakit anjing gila atau Rabies :penyakit yang menyerang anjing, kucing, kera dll",
+    "sentimen": "positif"
+  },
+  {
+    "id": 31,
+    "kalimat": "Kehadiran orang baru, anjing atau kucing baru, di sebuah rumah dapat menyebabkan seekor kucing menjadi stres.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 32,
+    "kalimat": "Anjing yang menggonggong biasanya tidak menggigit. Orang yang banyak bicara biasanya tidak bisa bekerja.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 33,
+    "kalimat": "lu dan aku kayak anjing dan kucing. Yang satu setia, yang satu gampang manja sama siapa aja.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 34,
+    "kalimat": "Hyena tidak terkait dengan anjing, mereka jauh lebih terkait erat dengan kucing.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 35,
+    "kalimat": "nyawa lebih penting dari pada kaca anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 36,
+    "kalimat": "Woyy Anjing! TOLOL mulu mirip KONTOLKU!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 37,
+    "kalimat": "ANJING!! AKUN TOLOL",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 38,
+    "kalimat": "anjing aing palanya habis bocor berantem sama anjing kampung rebutan cewe",
+    "sentimen": "positif"
+  },
+  {
+    "id": 39,
+    "kalimat": "Manusia bukan satu-satunya makhluk hidup yang bisa tertawa. Hewan seperti anjing dan kucing juga bisa tertawa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 40,
+    "kalimat": "eh mana tau ni anjing lah kau",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 41,
+    "kalimat": "Hai salam kenal (pending) | DPnya cantik, orang mana? (Pending) | Lagi ngapain nih? (Pending) | Dasar anjing!! (delivered)",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 42,
+    "kalimat": "banyak ibu2 atau bapak2 atau nenek2 yang bawa kereta bayi, tapi begitu diintip isinya ternyata anjing.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 43,
+    "kalimat": "Kalau lu juga suka ama dia bilang. Gak usah ngejelekin nama w di depan dia. Anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 44,
+    "kalimat": "demen anjing sampe kaya anjing hehe",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 45,
+    "kalimat": "Hyorin memiliki hewan peliharaan yaitu anjing",
+    "sentimen": "positif"
+  },
+  {
+    "id": 46,
+    "kalimat": "MUKAA LO SAMA DIA PASSS SAMA SMAA BULUKKK JD JADIANN DEH SONO ANJING SAMA BABIII",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 47,
+    "kalimat": "Ga usah sok ngartis sih anjing, jangan sok cantik banyak gaya lu...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 48,
+    "kalimat": "cwok kaya anjing gitu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 49,
+    "kalimat": "efek terlalu sering bergaul sama anjing makanya kelakuan si Nong jdi begitu.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 50,
+    "kalimat": "Dasar anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 51,
+    "kalimat": "anjing ni org mabok atau stress",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 52,
+    "kalimat": "Anjing bangsat tai doang lah",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 53,
+    "kalimat": "sebelum menjalankan mobil periksa dan astikan tidak ada hewan seperti kucing atau anjing yg berlindung di area ban atau mobil.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 54,
+    "kalimat": "SI ANJING SI ANJING",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 55,
+    "kalimat": "lo perek pemalan pejuh belaga pake hijab segala. Neraka buat lo anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 56,
+    "kalimat": "Pahamilah bahwa sifat anjing sangat Luhur moral dan Beretika kepada tuannya, teman dan penjaga yg baik , tentunya Setia",
+    "sentimen": "positif"
+  },
+  {
+    "id": 57,
+    "kalimat": "Ok anjing anak pelacur mak sundal?I'm coming for u sooner or later.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 58,
+    "kalimat": "Semakin lemah seekor anjing semakin keras gonggongannya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 59,
+    "kalimat": "Woy tony bangsat, are you liverpool shit fan? Do you know liverpool is fuckin bullshit like city hah anjing?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 60,
+    "kalimat": "Anjing. Daripada sama si v yang nolak lu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 61,
+    "kalimat": "Beberapa hewan dianugerahi bisa melihat jin, seperti keledai dan anjing",
+    "sentimen": "positif"
+  },
+  {
+    "id": 62,
+    "kalimat": "Ia memiliki seorang kakak perempuan dan seekor anak anjing",
+    "sentimen": "positif"
+  },
+  {
+    "id": 63,
+    "kalimat": "Di beberapa negara banyak yurisdiksi yang memberlakukan apabila sengaja melukai atau membunuh anjing polisi adalah kejahatan besar",
+    "sentimen": "positif"
+  },
+  {
+    "id": 64,
+    "kalimat": "Terlalu anjing untuk di ingat, terlalu bangsat untuk dikenang, terlalu sampah untuk merindu. Aku wes ora peduli ~",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 65,
+    "kalimat": "Flaws on your face looks beautiful with a nice camera. Dapat camera phone baling anjing.. hmmm",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 66,
+    "kalimat": "Jangan jadi anjing jilat sana sini . Depan temen belaiin temen . Temen dijelekin malah eh ntahlah",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 67,
+    "kalimat": "Guinness Book Of World Records, anjing terkecil yg pernah ada adlh seekor Yorkshire Terrier yg beratnya hanya 2ons pada usia 2tahun",
+    "sentimen": "positif"
+  },
+  {
+    "id": 68,
+    "kalimat": "Ada cewek cantik putih mulus sexy sayang dulunya laki haha kaga lucu anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 69,
+    "kalimat": "Sejenis anjing lah kau",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 70,
+    "kalimat": "Dokter hewan memastikan apa anjing itu sakit atau tidak melalui keadaan dan bau di dalam telinganya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 71,
+    "kalimat": "jgn pernah percaya dgn org, depan suci tapi belakang mcm anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 72,
+    "kalimat": "Anjing trah Basenji adalah satu-satunya anjing yang tidak menggonggong/menyalak di dunia.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 73,
+    "kalimat": "Temenan : gue elu | pdkt: aku lu | jadian: pipi mimi | putus: anjing goblog",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 74,
+    "kalimat": "Bising ah anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 75,
+    "kalimat": "Nurani anjingmu kebanyakan makan anjing sama babi jadi tingka lakumu ngga bedah jauh bangsat",
+    "sentimen": "positif"
+  },
+  {
+    "id": 76,
+    "kalimat": "Anjing lu biadal bangsat lu kira ulama seperti dirimu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 77,
+    "kalimat": "Kok anjing?!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 78,
+    "kalimat": "Anjing laut jalannya pake perut",
+    "sentimen": "positif"
+  },
+  {
+    "id": 79,
+    "kalimat": "Sama, gue juga Tidur.. dan berharap menang.. eh anjing, taunya pas bangun kalah. Apa ga kntl!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 80,
+    "kalimat": "Dikejar anjing pagi-pagi. Nuhun.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 81,
+    "kalimat": "Sekali2 emang kudu d kasih shock therapy itu anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 82,
+    "kalimat": "ya biasa lah otak goblok, apa2 dikaitin sama agama, tp dia sendiri munafik anjing..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 83,
+    "kalimat": "Morning kalian.,moga kalian baik2 aja deh Maju Lu Sini Anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 84,
+    "kalimat": "Woi akun anjing palalu pitak sejak kapan ygvkaya gitu kena pasal ? Modar aja luh nyet cebong !",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 85,
+    "kalimat": "Laika adalah seekor anjing astronot luar angkasa pertama di dunia. diluncurkan satelit bumi buatan di tahun 1957 oleh pemerintah Rusia.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 86,
+    "kalimat": "Hipokrit anjing hahahaha",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 87,
+    "kalimat": "Ga usah sok ngartis sih anjing, jangan sok cantik banyak gaya lu.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 88,
+    "kalimat": "kaya anjing beraninya cuma sama cewe",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 89,
+    "kalimat": "Mantap anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 90,
+    "kalimat": "muka mcm anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 91,
+    "kalimat": "BEGINI DOANG GW JEJERITAN ANJING",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 92,
+    "kalimat": "anjing bangsat gobloq",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 93,
+    "kalimat": "Hdh itu tolong yang suka ngeluh friendless, dikacangin, dsb yang memandang rendah dirinya padahal udah di jb tapi gak diwaro sadar diri kek anjing caper lo bangsat hih geli.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 94,
+    "kalimat": "Dari semua binatang, hanya anjing dan gajah yang pintar memahami gerakan tangan manusia.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 95,
+    "kalimat": "Malu malu anjing itu mah, malu malu tetep jilat sana sini.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 96,
+    "kalimat": "Anjing menggonggong kafilah berlalu",
+    "sentimen": "positif"
+  },
+  {
+    "id": 97,
+    "kalimat": "Babi buat aku nangis anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 98,
+    "kalimat": "Kepala mana kau hahahahaha. Anjing.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 99,
+    "kalimat": "DI DALEM TUBUH FRANK OCEAN ADA APAANSIH ANJING SUARANYA BAGUS BANGET NANGIS 7 MALEM",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 100,
+    "kalimat": "Bangsat polisi anjing . Ya Allah tolonglah kami yg teraniaya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 101,
+    "kalimat": "Anjing kzl",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 102,
+    "kalimat": "Anak-anak anjing Dalmatian terlahir murni putih polos, spot-spot berwarna hitam muncul dan berkembang seiring dengan mereka dewasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 103,
+    "kalimat": "Ga usah sok ngartis sih anjing, jangan sok cantik banyak gaya lu.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 104,
+    "kalimat": "Anjing ya gausa denger omongan orang bgst",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 105,
+    "kalimat": "GEDE BANGET BARANGNYA ANJING",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 106,
+    "kalimat": "kalo temen yang anjing gimana? boleh?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 107,
+    "kalimat": "kaya tai congor muka lebar kaya anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 108,
+    "kalimat": "Salah colok anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 109,
+    "kalimat": "TEMAN KAYAK ANJING YAALLAH",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 110,
+    "kalimat": "kardiograf anjing!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 111,
+    "kalimat": "sumpah lupa kemarin ngapain aja anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 112,
+    "kalimat": "Apanya yang perlu dibaca anjing!! Kalah kalah aja, banyak alasan bacot!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 113,
+    "kalimat": "tapi lu mukanya kaya anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 114,
+    "kalimat": "Anjing bgst adalah omongan para cowok cowok kalau lagi kumpul, ehh gak dong tapi kebanyakan temen saya gitu, saya si iya juga",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 115,
+    "kalimat": "gue ga melihara tp punya banya anjing koceng online aja pas ngeliat rasanya seneng bgt, apalagi kalo dibolehin melihara beneran ya:'",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 116,
+    "kalimat": "ADA ADA AJA SUPIR ANGKOT W BLG KIRI, TP LAMA BGT GA BERENTI2 TRS MALAH 'WEY ANJING' GA WARAS BGT DAH",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 117,
+    "kalimat": "Spngetahuan gw sih klu ada anjing d dlm drmh malaikat jg gk mau msuk.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 118,
+    "kalimat": "udah 18x saya masuk twiter game anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 119,
+    "kalimat": "Anjing tukang fitnah lo, memang pendukung sama yg didukung sama aja, tukang hoax dan fitnah!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 120,
+    "kalimat": "kesel banget anjing ga inget inget kemaren mikirin apa huhhhhhhhhhh gedek banget",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 121,
+    "kalimat": "Pokoknya anjing lah kalian yg pada lebay. Bodo amat yang ke makan rumor kaya gitu, BUB gua sekarang!!! Gamau punya mutual kaya gitu. Tai.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 122,
+    "kalimat": "Yang pasti golden retriever bukan anjing untuk jaga rumah. Dia sama siapa aja baik termasuk dng maling mungkin. Paling gonggong sebentar terus buntutnya menari2.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 123,
+    "kalimat": "LELAKI BANGSAT LELAKI KARDUS LELAKI ANJING !!! KALOO CEWEEE LU GAK MAU GOSAHH DIPAKSAA ANJENG !!! GENUGG JUGA NIHH !!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 124,
+    "kalimat": "Apasi anjing terserah gue ga suka unfoll bebas",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 125,
+    "kalimat": "sini lu gua gendong anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 126,
+    "kalimat": "Sekali lari jantung ke mau pecah anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 127,
+    "kalimat": "Ngatain orang sok inggris lu men, tapi dia sendiri kalo bilang makasih tetep bilang thanks bro, ah munafik anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 128,
+    "kalimat": "Muka lo udah kaya berak anjing Tong!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 129,
+    "kalimat": "Nyari mutual di twitter sama di ig ena nyari di twitter sumpa di ig udah di follbck malah di unfoll anjing emang",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 130,
+    "kalimat": "masi pagi si anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 131,
+    "kalimat": "Peler anjing... banyak bacot Lo anjing... Duel ama gw Lo anjing...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 132,
+    "kalimat": "Kasih gua pencerahan, apa nikmatnya lari pagi dihari minggu selain ngeliatin cewek bening bawa anjing?",
+    "sentimen": "positif"
+  },
+  {
+    "id": 133,
+    "kalimat": "Kenapasih org org rumah kek anjing bgt hari ini.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 134,
+    "kalimat": "Folow anjing jangan komen doang",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 135,
+    "kalimat": "Kesel bacanya anjing, kaya baca puisi",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 136,
+    "kalimat": "emosi nih sama kucing tetangga , hobinya mengendap2 masuk ke balkon rumah terus nyolong makanan anjing saya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 137,
+    "kalimat": "Astaga masih pagi pay kau membuat ku ingin berkata anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 138,
+    "kalimat": "Sumpah gw kesel amat dah lihat video ini, bukannya mencari pendidikan berkarakter tetapi pendidikan barbar anjing!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 139,
+    "kalimat": "ANJING AH KETAWAAA",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 140,
+    "kalimat": "ANJING TOLOL lu GOBLOG",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 141,
+    "kalimat": "Emang anjing ini, biadab kali polisi anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 142,
+    "kalimat": "demi tuhan lu semua berantem mulu anjing ngapain sih",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 143,
+    "kalimat": "Mana punya nurani mereka.. Mereka bkn manusia tp binatang!! Anjing..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 144,
+    "kalimat": "mau hijrah tp ngeliatin video polisi jd kaga jadi, pada kaya ANJING soalnya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 145,
+    "kalimat": "Woy anjing anjing kurapan.. elu emang bangsat .... Mampus kau liat aja nanti",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 146,
+    "kalimat": "pacar sama anjing beda ya, anjing gak tau sabar makanya always nungguin majikannya pulang tapi pacar capek nungguin terus orang yg disayang",
+    "sentimen": "positif"
+  },
+  {
+    "id": 147,
+    "kalimat": "kalian kayak tidak pernah nonton bokep semua saja munafik lo anjing.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 148,
+    "kalimat": "Cuma beda 1000 anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 149,
+    "kalimat": "pukimak punya india babi ni",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 150,
+    "kalimat": "Apasi anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 151,
+    "kalimat": "Ada aja anjing yg buat gue ketawa pagi pagi gini,asu lah wkwkwk",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 152,
+    "kalimat": "pagi ini di awali dengan, dikejar anjing...",
+    "sentimen": "positif"
+  },
+  {
+    "id": 153,
+    "kalimat": "Anjing pantesan barang yg dikirim ke gua rusak!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 154,
+    "kalimat": "PAGI PAGI DAH EMOSI ANJING",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 155,
+    "kalimat": "TOLOL ANJING",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 156,
+    "kalimat": "hahaha dan akhirnya semua orang dirumah ninggal aing yang lagi sakit, dan pergi liburan ke jogja sendiri hahaha , anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 157,
+    "kalimat": "Sampah si anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 158,
+    "kalimat": "Kara ingin mengumpat Anjing tai babi",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 159,
+    "kalimat": "Dingin bat anjing, bodo amat lah ga mandi aja gua",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 160,
+    "kalimat": "anjing masih pagi, emosi gw bacanya bales nder: kontol lu najis anjing amit amit",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 161,
+    "kalimat": "Malu anjing. Biasanya pake ojek tuh bayarnya pakai gopay.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 162,
+    "kalimat": "Nitip anjing, fotonya nemu di reddit",
+    "sentimen": "positif"
+  },
+  {
+    "id": 163,
+    "kalimat": "ganggu bgt anjing pengen gue penggal",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 164,
+    "kalimat": "Anjing betul yg bawa mobilnya, buta matanya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 165,
+    "kalimat": "capek ah bangsat bikin males pagi2 aja anjing lo",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 166,
+    "kalimat": "Anjing gak main twitter kak",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 167,
+    "kalimat": "Bloon anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 168,
+    "kalimat": "Anjing kau. Yang hina itu mama kau.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 169,
+    "kalimat": "ANJING LO HAHAHAHAH",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 170,
+    "kalimat": "anjing ngakak",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 171,
+    "kalimat": "Yeee anjing,udah livestream 1 jam lebih malah di cancel karna cuaca",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 172,
+    "kalimat": "Takut Anjing = Cynophobia",
+    "sentimen": "positif"
+  },
+  {
+    "id": 173,
+    "kalimat": "Bisalah om, kan meteka menggonggong bicaranya, gaya anjing peking",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 174,
+    "kalimat": "dih anjing bgt setannya minta di ruqyah",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 175,
+    "kalimat": "Sombong amat nih org anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 176,
+    "kalimat": "Anjing sumpahw kira td yg reply mba tara. Ganti dp om2 lagi buru",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 177,
+    "kalimat": "culun bet w, anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 178,
+    "kalimat": "keripik kaca maksud gua anjing suuzon mulu lu sama gua",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 179,
+    "kalimat": "Bener banget mba, dulu aku suka gangguin anjing tetangga terus aku dikejernya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 180,
+    "kalimat": "kalo g ada anjing sm bgst tu ky kurang aja ngetik di ini grup",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 181,
+    "kalimat": "LGBT LGBT tai anjing, kaga ngedukung dibilang ga berperikemanusiaan. Tai lah",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 182,
+    "kalimat": "loh, mulainya jam stengah 7? kek apa sih anjing sekolahku ini",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 183,
+    "kalimat": "WKWKWKWK EMG NGAPAIN ANJING????ORG GA NGAPA2IN",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 184,
+    "kalimat": "makanya anjing kek gada akhlak bgt",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 185,
+    "kalimat": "Di dunia nyata juga ada tapi tokoh liciknya yang anjing bukan kucing.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 186,
+    "kalimat": "anjing rasanya mau ngespill tp males",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 187,
+    "kalimat": "Anjing kenapa diem aja abangnya tolol. Udah mending kl ada ginian gausah nonton. Biar berenti abangnya jg cari nafkah dgn cara lain aja.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 188,
+    "kalimat": "Dasar anak anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 189,
+    "kalimat": "Mati aja lo anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 190,
+    "kalimat": "Katanya kalo cewe cantik gak boleh ngomong kasar,berhubung aku gak cantik trobos ajalah anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 191,
+    "kalimat": "itu yg goodlooking tpi sok2 an insecure biar apa si anjing?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 192,
+    "kalimat": "masih pagi tapi udah kayak anjing aja ini hidup",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 193,
+    "kalimat": "weh anjing gue diem doang disalahin",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 194,
+    "kalimat": "Gaada otak anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 195,
+    "kalimat": "Anjing asli goblok udh sering gua kasih tau buat jangan manggil pake real name gua masih aja. Tolol. Gabisa bgt mencoba belajar hargain orang",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 196,
+    "kalimat": "guys itu sctv teh nct beneran ke indo apa gimana? gua kesel banget anjing nct perform cuma satu lagu ngapain diselipin reaction artis indo ah gajelas bgt",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 197,
+    "kalimat": "janji anjing babi bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 198,
+    "kalimat": "aku kecewa sama sctv banyak scene ga ngotaknya anjing dipikir apaan dih",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 199,
+    "kalimat": "sumpah ya ini tuh mereka udah ganteng pake item2, kameranya juga ga banyak gaya, EH SI ANJING MALAH NYOROT AUDIENCE",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 200,
+    "kalimat": "Oh elu anjing, pantesan. Mana sini so nice sekali hap nya, kenalin sm gua",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 201,
+    "kalimat": "Anjing banget ya pagi2 gw care sama temen malah di sangka jelek. Makanya kalo ga kuat minum gausah minum udh mabok mah berabe njing!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 202,
+    "kalimat": "Bodo amatlah anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 203,
+    "kalimat": "Misalnya ada suatu kondisi dimana kita lagi khawatirin si dia, tapi dia malah seneng-seneng sama yang lain. Itu babi namanya.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 204,
+    "kalimat": "tu ah, babi betul. kau pukul din",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 205,
+    "kalimat": "ups... muke babi ngepet ditayangin lg",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 206,
+    "kalimat": "pagi pagi dah jadi babi",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 207,
+    "kalimat": "BABI NGEPET !!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 208,
+    "kalimat": "Babi la cok tak samaaaa",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 209,
+    "kalimat": "DASAR BABI",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 210,
+    "kalimat": "caper tolol babi saya tunggu lu di semester tinggi",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 211,
+    "kalimat": "Padahal harusnya bangga tinggal nyebutin... aneh nih otak babi",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 212,
+    "kalimat": "kukira kau rumah ternyata kandang babi",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 213,
+    "kalimat": "apasih ngentot kontol asu babi memek, ginian aja lu share di base. anjay.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 214,
+    "kalimat": "Kenapa harus umur segini si babi",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 215,
+    "kalimat": "Cinta monyet cie wkwk",
+    "sentimen": "positif"
+  },
+  {
+    "id": 216,
+    "kalimat": "heh kontol, jan sok pemes lu di rp, muka kek memek, org tua lu kek monyet, agama lu aje agama kontol",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 217,
+    "kalimat": "Orang melihat monyet adalah revolusi dari manusia karena monyet dan manusia dapat berjalan tegak.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 218,
+    "kalimat": "Lo mau maenin cewe? gue kasih monyet cewe sini biar puas",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 219,
+    "kalimat": "Harapan km apa sih di thn Monyet Api ini? Share dong harapan km di bareng BEAR BRAND",
+    "sentimen": "positif"
+  },
+  {
+    "id": 220,
+    "kalimat": "Seperti sifat monyet yg gesit dan pintar,tahun monyet api bakal penuh keceriaan, optimisme dan semangat bareng BEAR BRAND",
+    "sentimen": "positif"
+  },
+  {
+    "id": 221,
+    "kalimat": "Alay lo monyet.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 222,
+    "kalimat": "Shio baekhyun itu Monyet",
+    "sentimen": "positif"
+  },
+  {
+    "id": 223,
+    "kalimat": "Topeng monyet ... Tontonan yang udah jarang banget . tapi peminatnya masih banyak",
+    "sentimen": "positif"
+  },
+  {
+    "id": 224,
+    "kalimat": "gue gatau lo abis ketiban anak monyet jadi begini, terhura nih gue. thankyou so much buat looooo njir",
+    "sentimen": "positif"
+  },
+  {
+    "id": 225,
+    "kalimat": "Disaat kita serius dia nya main-main,disaat kita main-main dia nya serius. Dasar cinta monyet",
+    "sentimen": "positif"
+  },
+  {
+    "id": 226,
+    "kalimat": "MONYET CONGRATS WOI",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 227,
+    "kalimat": "Itu pacar apa monyet. Ko hobinya nge gantungin lu mulu. Udah putusin aja daripada makan hati",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 228,
+    "kalimat": "doktrin darwin sebagai iman anda, seharusnya anda bisa buktikan bahwa monyet yg ada skrg sudah bisa berbicara",
+    "sentimen": "positif"
+  },
+  {
+    "id": 229,
+    "kalimat": "Bot itu bukannya temennya dora yang monyet ya?",
+    "sentimen": "positif"
+  },
+  {
+    "id": 230,
+    "kalimat": "Saat tinggal di Indonesia, Barrack Obama pernah memelihara monyet bernama Tata.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 231,
+    "kalimat": "_waktu sekolah mah actual cinta monyet haha. yakan ga kasian apa mereka sama hati nutrijell gue yah gue alay",
+    "sentimen": "positif"
+  },
+  {
+    "id": 232,
+    "kalimat": "Terlibat Cinta Monyet, Dua ABG Ini Pacaran di Atas Pohon Sambil Mencari Kutu di Kepala",
+    "sentimen": "positif"
+  },
+  {
+    "id": 233,
+    "kalimat": "Aku suka dia, sama dia juga suka. Tapi kenapa sih mama bilang kalau ini cinta monyet",
+    "sentimen": "positif"
+  },
+  {
+    "id": 234,
+    "kalimat": "Si monyet bangsat, gue kurang apa coba. Emng situ aja yg keganjenan sok polos babiiii",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 235,
+    "kalimat": "aku habis beli monyet, mukanya mirip mantan lu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 236,
+    "kalimat": "Cinta monyet waktu masih anak-anak itu lucu dan konyol, tapi perasaan cintanya tulus dan tidak pake modus.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 237,
+    "kalimat": "Boneka Monyet Kecil ini yg slalu menemani hari2ku",
+    "sentimen": "positif"
+  },
+  {
+    "id": 238,
+    "kalimat": "Di tengah sains yg hebat, membantu mengingatkan anak2 kita, bhw asal usul manusia bkn dr keturunan monyet tp keagungan ciptaan TUHAN",
+    "sentimen": "positif"
+  },
+  {
+    "id": 239,
+    "kalimat": "monyet ngomong monyet ah lu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 240,
+    "kalimat": "diam monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 241,
+    "kalimat": "jd nih orang, keturunan monyet.. Liat aja mukanya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 242,
+    "kalimat": "Kecuali manusia dan monyet, semua mamalia buta warna",
+    "sentimen": "positif"
+  },
+  {
+    "id": 243,
+    "kalimat": "Cinta monyet rasa suka2 pada nilai2 fisik yg disukai, seperti cinta hewan pada sesamanya. Cinta sejati itu cinta ibu pd anaknya penuh kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 244,
+    "kalimat": "Ngarepin banjir supaya ngga ada aktifitas. egois banget, kaya monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 245,
+    "kalimat": "monyet lu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 246,
+    "kalimat": "monyet itu emang trus nyerang NU Banser dan Ulama NU ,semakin kurang ajar emang",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 247,
+    "kalimat": "KAN ELO MONYET",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 248,
+    "kalimat": "Ni monyet pake dp Tapi kerja nya gibulin Orang2",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 249,
+    "kalimat": "Monyet pertama yang terbang ke luar angkasa adalah Albert II. Ia terbang 83 mil di ruang angkasa pada 14 Juni 1949.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 250,
+    "kalimat": "Nanti nunggu dulu lebaran lu, lebaran monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 251,
+    "kalimat": "Aku gak ngerti knp sih skrg kita jd musuhan gini?? pdhl dulu kita srg main sama2. Apa krn kita beda? memang aku manusia dan lu MONYET, tp salahkah kt berteman??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 252,
+    "kalimat": "Pesanan apa? Coba jangan belagak monyet...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 253,
+    "kalimat": "Pada saat ini, para ilmuwan di AS tengah mempelajari bagaimana otak seekor monyet dapat mengontrol tubuh monyet lainnya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 254,
+    "kalimat": "Disini Banyak monyet nakal. Macem lu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 255,
+    "kalimat": "Mimpi tercyduk gara gara si monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 256,
+    "kalimat": "Eh nyet... Kalo lu survey nya di kandang monyet, pasti monyet juga yg menang....",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 257,
+    "kalimat": "Monyet sama panda lucu mana?",
+    "sentimen": "positif"
+  },
+  {
+    "id": 258,
+    "kalimat": "Monyet ya gitu om, dia nya yg culas, orang lain yg dicela bodoh, apa namanya gitu?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 259,
+    "kalimat": "Yg jelas bukan buat monyet ky yg nanya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 260,
+    "kalimat": "nyettt monyet goblog",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 261,
+    "kalimat": "Titid monyet lu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 262,
+    "kalimat": "Itu pendapat otak mu..monyet. babi. Anjing..kau..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 263,
+    "kalimat": "Ngakak gw serius lucu banget monyet!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 264,
+    "kalimat": "Anjing tai babi monyet lah ini manusia goblok kesel guaaa Weh pengen gua banting rasanya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 265,
+    "kalimat": "Karena si monyet sudah dimenangkan dengan kecurangan..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 266,
+    "kalimat": "Ngapain sih monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 267,
+    "kalimat": "Rusuh monyet! Wkwkwk",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 268,
+    "kalimat": "Paling benci sama player sun kelakuan kaya monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 269,
+    "kalimat": "Mungkin itu duit yang selalu ada di kantong pas masih cinta monyet.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 270,
+    "kalimat": "Jangan gajelas kalo jd monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 271,
+    "kalimat": "Gak mau dikatain monyet tapi kelakuan mirip monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 272,
+    "kalimat": "Pengen jadi artis sinetron kagak laku, padahal dandannya udah heboh banget kayak monyet didandani ribet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 273,
+    "kalimat": "lu monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 274,
+    "kalimat": "yaAllah bagus. btw aku salpok ke seprei monyet, samaan kitaaaa",
+    "sentimen": "positif"
+  },
+  {
+    "id": 275,
+    "kalimat": "monyet ya proses lah dia mah bgst",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 276,
+    "kalimat": "Gw kira dia Mandang fisik karna dia lebih oke lah taunya Buriq ajg, jauh jauh deh lu monyet.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 277,
+    "kalimat": "Masih ada aja makhluk tolol kayak lo, heran. Bukan pekara hoax nya atau engga. Lo nyadar ga sih bego itu gambarnya serem?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 278,
+    "kalimat": "Wooy monyet lu gk tau diri, di kasih pisang minta sambel",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 279,
+    "kalimat": "Ak ngikutin heart series sama monyet cantik doang, yg ggs sama cjr nontonnya kadang' doang",
+    "sentimen": "positif"
+  },
+  {
+    "id": 280,
+    "kalimat": "Udah makan tai blum lu nyet, monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 281,
+    "kalimat": "Haha otak bodoh, otak bodoh, tukang makan tai, anak monyet, tukang sodomi, hahaha",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 282,
+    "kalimat": "Lu kan monyet bukan mnusia",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 283,
+    "kalimat": "Monyet lu!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 284,
+    "kalimat": "itu elu nyet,lu monyet.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 285,
+    "kalimat": "Shio mu apa? Babi? Atau monyet?",
+    "sentimen": "positif"
+  },
+  {
+    "id": 286,
+    "kalimat": "Beli monyet kyk George dimana ya. Asik kali ya punya monyet.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 287,
+    "kalimat": "Banyak goblog pas waktu sd sih. Polos banget pas dibego-begoin. Demi cinta monyet anj",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 288,
+    "kalimat": "TERUS SAPA MONYET",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 289,
+    "kalimat": "Monyet mondar mandir juga kerja... Dasar presiden sialan...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 290,
+    "kalimat": "Pantat monyet kadrun",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 291,
+    "kalimat": "diam nyet, have a nice day nyet, dasar monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 292,
+    "kalimat": "gosa ngegas nyet, have a nice day nyet, dasar monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 293,
+    "kalimat": "Gak begitu dong monyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 294,
+    "kalimat": "Doger monyet itu apaan es doger ?",
+    "sentimen": "positif"
+  },
+  {
+    "id": 295,
+    "kalimat": "kemasukan omongan lu alias omongan monyet ya?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 296,
+    "kalimat": "masih halus.. Penginnya ludahi muka Gus Munafik sambil bilang 'Binatang Kau..!' (Anjing, Babi, Monyet, dll sdh terwakili didalamnya)",
+    "sentimen": "positif"
+  },
+  {
+    "id": 297,
+    "kalimat": "Bacot lu,monyet barbar.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 298,
+    "kalimat": "susah klo ngomong ama JEMBUT MONYET...... mulut kaya BOL yg keluar cuma tai.... GK INGET AMA JANJI LO YG KEMAREN..... dasar munafik lo PELER KUDA.... UCAPAN KOK GK BISA DIPEGANG",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 299,
+    "kalimat": "Bahasa inggrisnya anjing ya kunyuk apa lo!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 300,
+    "kalimat": "Memang anjing ni akun ...lu ngapain si nge-share begini… dasar otak miskin",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 301,
+    "kalimat": "Hyukjae bgst, otak gue traveling kemana-mana ye kunyuk segala dikasih emot begituan juga.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 302,
+    "kalimat": "Bajingan u semua! Pagi2 teriak. Pengen gw tabokin tu mulut2 kalian. Semakin tdk sanggup hidup dngn manusia2 aneh spt kalian!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 303,
+    "kalimat": "mampus loe perek itulah duri2x dunia  ,bajingan mana pun pasti akan eneg abis",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 304,
+    "kalimat": "lu DASAR BAJINGAN...GAK BISA DIPERCAYA OMONGANNYA...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 305,
+    "kalimat": "grup lu so asik najis. Mana isinya cabe semua hahaha bajingan..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 306,
+    "kalimat": "Cowok jaman sekarang tuh BAJINGAN !!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 307,
+    "kalimat": "wah BAJINGAN",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 308,
+    "kalimat": "btp gak punya kelebihan, kecuali pemimpin yg suka berkata kotor Tai,, bajingan,keparat..., anjink,,, dll Memalukan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 309,
+    "kalimat": "Intinya lo itu kaya bajingan!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 310,
+    "kalimat": "Bajingan subuh' dapet chat orang lgi ngedumel gara' tanda tanya nya gak bisa di ketik",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 311,
+    "kalimat": "Udah tau bangsat, udh tau brengsek, udh tau bajingan. Tapi tetep aja",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 312,
+    "kalimat": "BAJINGAN MEMANG !!! SEMUA BERASA BAJINGAN !!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 313,
+    "kalimat": "Gue ga akan pernah mau balikan! Gue masih laku! Dan masih banyak orang yg lebih baik dari lo! Lo itu melebihi bajingan!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 314,
+    "kalimat": "Apa yang harus di banggakan dari polisi ??? Mereka sama seperti kami bajingan bahkan mereka lebih bajingan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 315,
+    "kalimat": "Hah ngechat cuman bilang seperti itu? bajingan banget hidup loe",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 316,
+    "kalimat": "lu punya anak koq ajarin pake baju kaya pelacur,? Gimana si elu! Bajingan banget lu endut!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 317,
+    "kalimat": "lu bukan cuma idiot tp lu ini pun bajingan anjing taik babi nenek lu kakek lu bokap lu nyokap lu anjing semua",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 318,
+    "kalimat": "YG ATAS ITU LOH BAJINGAN SEMUA TIGA TIGA NYA SIAL",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 319,
+    "kalimat": "Dasar Bajingan!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 320,
+    "kalimat": "Muka nipu yaa, muka polos ternyata bajingan hhhh",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 321,
+    "kalimat": "Kalian cocok ko :) sama sama bajingan !!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 322,
+    "kalimat": "Anjing bajingan bangsat seri we goblog tai",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 323,
+    "kalimat": "Kiper bajingan!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 324,
+    "kalimat": "YANG BERKUASA ORANG2 KEPARAT BAJINGAN SEMUA....,HANCUUURRRR",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 325,
+    "kalimat": "BAJINGAN SAMPEYAN",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 326,
+    "kalimat": "Mulai bajingan wasitnya ckckckck",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 327,
+    "kalimat": "Fpi isinya org bajingan tp pengecut semua....",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 328,
+    "kalimat": "LONTE BAJINGAN !!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 329,
+    "kalimat": "Dasar bajingan. Hilang kepercayaan aku berkat kau sial",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 330,
+    "kalimat": "Dsar wanita pelacur pembhong ingkar janji pendusta besar bajingan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 331,
+    "kalimat": "Dia hanya bandit tua, bajingan tengik, dia hanya cahaya yang kian meredup, dan tak kuasa menahan beban hidupnya sendiri.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 332,
+    "kalimat": "Amin bajingan bajigur. Dasar biji",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 333,
+    "kalimat": "Dasar bajingan... gub wagub dki skr",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 334,
+    "kalimat": "Minta maaf habis itu bikin ulah lagi hina ulama mas bego bajingan, bangsat kau",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 335,
+    "kalimat": "Bajingan munafik begini emg hrs dibuat kapok. Ingat kasus persekusi Cikupa, gak terbukti mesum tetap ditelanjangin!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 336,
+    "kalimat": "Habis kesambet lu sok bijak. Dasar tai,nama lu bagus tp sifat lu bajingan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 337,
+    "kalimat": "Bajingan Goblog!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 338,
+    "kalimat": "Bisa bedain bajingan sama yg nangkap bajingan gak ?? Goblok amat lu cok",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 339,
+    "kalimat": "bajingan bolt hari ini.. koneksi kenceng tapi mesti restart tiap setengah jam....",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 340,
+    "kalimat": "Luhut si muka bajingan skrng perusahaany bnyk duit dr mn dia",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 341,
+    "kalimat": "Wah luhut ini muka bajingan tengik perusahaanya bnyk skrng duitny dr mn yaaaa",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 342,
+    "kalimat": "Ahhhh bajingan, kontol, asu, sing asu ki koe! Sak bojomu! Sing bosok ki koe sak bojomu.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 343,
+    "kalimat": "TIM KONTOOLLLL ANJEEEENG BAJINGAN MEMEK BANGSAAAT",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 344,
+    "kalimat": "Cuma bisa nyinyir...dasar bajingan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 345,
+    "kalimat": "HAHAHAHAHAHAHAHAHAHA BAJINGAN LO",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 346,
+    "kalimat": "Dasar bajingan lemah",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 347,
+    "kalimat": "Kalo itu bajingan mesum pengecut",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 348,
+    "kalimat": "Bacot busuk eh tolol gak ada yg memggunakan bus cok, mobilisasi pakai bak terbuka dan motor",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 349,
+    "kalimat": "Tidak membuat kejahatan biadab, mengeroyok dan membunuh orang menjadi berkurang. Tetap bajingan biadab!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 350,
+    "kalimat": "Mamakmu pelacur bajingan. Jadi kau harus buktikan kalau kau bukan anak pelacur bajingan. Bagaimana?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 351,
+    "kalimat": "Emang dasar bajingan enggak tau malu loo",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 352,
+    "kalimat": "fuck..benar!! ustad bajingan!! sialan!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 353,
+    "kalimat": "Halah kontol jembut asu bajingan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 354,
+    "kalimat": "Berhenti jadi anak biadab agar bisa geser ke anak bajingan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 355,
+    "kalimat": "Gak usah mukul juga kali, dasar manusia jenis apa kau mbak, seandainya keluarga atau saudara nya di gituin apa mau goblok kau Bajingan kau tidak bisa menghargai orang lain",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 356,
+    "kalimat": "Bajingan emang",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 357,
+    "kalimat": "Ya emang kalo ga brengsek ya bajingan gaada bedanya semua mau yang berseragam mau yang swasta sama aja anjeeeng",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 358,
+    "kalimat": "depan belakang sama-sama bajingan wkwkwk",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 359,
+    "kalimat": "Bener2 bajingan, bangsattt, setan, anjing, babiiiiii, keboo iblisssss duuhhhh pengen gueh kunyaaah anak² setan ituuuu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 360,
+    "kalimat": "Anggap saja mereka anjing, iya anjing itu asu, asu itu ndhasmu. Bajingan kok",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 361,
+    "kalimat": "Si bangsat lg mancing, emang bajingan tu orang.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 362,
+    "kalimat": "Pengendara bangsat, bajingan !",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 363,
+    "kalimat": "bajingan ajg haha",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 364,
+    "kalimat": "Anak bajingan! kurang ajar lu! mending saya gapunya anak sama sekalian.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 365,
+    "kalimat": "_ Asu bajingan celeng",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 366,
+    "kalimat": "Bajingan asu pantek benci banget sama cowok!!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 367,
+    "kalimat": "Anak bajingan ini",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 368,
+    "kalimat": "Emang nya dua ASU itu punya malu...???",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 369,
+    "kalimat": "Asu ngakak",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 370,
+    "kalimat": "Kontol asu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 371,
+    "kalimat": "Takut dibegal asu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 372,
+    "kalimat": "Anak asu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 373,
+    "kalimat": "Bgst orang yg ngutang sama gua kebawa sampe mimpi,mana gk bayar juga lagi asu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 374,
+    "kalimat": "dih sokan bgt jd cowok. pala lo ga cukup sm satu cewek, itu bkn ga cukup, lo aja yg maruk asu.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 375,
+    "kalimat": "bjir ada ya orang kek gitu, tolol asu sini maju",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 376,
+    "kalimat": "bangsat lu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 377,
+    "kalimat": "Udah dikasih hati di baik-baikin malah nusuk dari belakang. Bangsat emang ya !!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 378,
+    "kalimat": "Menyalak apa lg woi bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 379,
+    "kalimat": "Lu ko jadi tmn di dpn gua keliatan baik ? Tapi kenapa di belakang gua lu lugu2 bangsat sih",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 380,
+    "kalimat": "Bajingan...bangsat... lo bukan siapa-siapa, kok sombong banget!!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 381,
+    "kalimat": "Ketika teman makan teman maka teman itu ku panggil BANGSAT",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 382,
+    "kalimat": "Lo itu munafik yah di depan baik-baikin tapi di belakang jelek-jelekin. Bangsat kan !",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 383,
+    "kalimat": "Teman makan teman, hhhaaa.. BANGSAT loe",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 384,
+    "kalimat": "Korupsi , Selalu Saja !! Bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 385,
+    "kalimat": "kamar gua kebocoran jdi banjir bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 386,
+    "kalimat": "Dulu punya pacar yg baik, nggk kyak skrng brutal sprti bangsat!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 387,
+    "kalimat": "tai kayak member lu bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 388,
+    "kalimat": "eh bangsat ribut yuk sini sama gua !!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 389,
+    "kalimat": "Anjing! Bangsat emg!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 390,
+    "kalimat": "Mood ancur bangsat masi pagi iniiii",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 391,
+    "kalimat": "Benci plk aku tengok bangsat ni fvck",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 392,
+    "kalimat": "NYESEL GUE NGESTALK ANJING! BANGSAT",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 393,
+    "kalimat": "Dasar cowok bangsat!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 394,
+    "kalimat": "ga usah so islami kalo kelakuan masih bangsat! gua ga seneng sama lu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 395,
+    "kalimat": "kartu merah yg gk pntng. Bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 396,
+    "kalimat": "Macam bangsat dalam bas. Kimak",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 397,
+    "kalimat": "Sumpah bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 398,
+    "kalimat": "bangsat kau penipu,ANJING tobat lo sebelum ajal menjemput",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 399,
+    "kalimat": "WOI APA2AN BANGSAT BANGET BANGUN2 BERITANYA BEGINI. FUCK 2016!!! FUCK!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 400,
+    "kalimat": "Orang sih gitu sifah , hati jelek bnget!!!! Taik lo anjing bangsat mampus ajah lo!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 401,
+    "kalimat": "Bangsat!! Bangsat!! Bangsat!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 402,
+    "kalimat": "Gue sih pengennya naburin di badan bapak emak lo babi! Kontol bacot lo setan iblis lo bangsat!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 403,
+    "kalimat": "Weh anjing, bangsat bacot lo kontol!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 404,
+    "kalimat": "lu bukan ulama bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 405,
+    "kalimat": "ASWWW BANGSAT",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 406,
+    "kalimat": "temen apaan lo? gak ada lo juga gue gak rugi kali bangsat!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 407,
+    "kalimat": "sabtu minggu masuk siangan tapi jam 6 biasanya dah dibangunin ih bangsat anj",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 408,
+    "kalimat": "Dosen bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 409,
+    "kalimat": "Lo bejat, bangsat, brengsek",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 410,
+    "kalimat": "penipu nih bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 411,
+    "kalimat": "ketiduran, bangun bangun pengen maki. bangsat.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 412,
+    "kalimat": "Banyak bangsat dan kntl ini orang lo.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 413,
+    "kalimat": "HIH DASAR lu BANGSAT IDOLAMU BARU SEPRINTILAN AJA UDAH SONGONG lu YA",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 414,
+    "kalimat": "Cabul bangsat.. Anjing pepek kontol",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 415,
+    "kalimat": "JIJIK BANGSAT MASIH PAGI AH",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 416,
+    "kalimat": "Bejat,bangsat,biadab tuh orang",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 417,
+    "kalimat": "Anjir, Bangsat kau",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 418,
+    "kalimat": "Brengsek, bangsat, goblok, jancuk, bacot",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 419,
+    "kalimat": "bangsat si tai wkwk",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 420,
+    "kalimat": "Manusia kek gini harus nya di kebiri ! Bangsat bejat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 421,
+    "kalimat": "Bangsat alay tenan asu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 422,
+    "kalimat": "Bangsat. Story ig isinya rang orang pada spoiler Endgame semua.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 423,
+    "kalimat": "dasar bangsat sialan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 424,
+    "kalimat": "Ya emang bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 425,
+    "kalimat": "Njirrr kurang tidur bangsat!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 426,
+    "kalimat": "Mantan paling bangsat!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 427,
+    "kalimat": "Bangsat aku aja sama sekali gak merhatiin sampe situ cuk ??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 428,
+    "kalimat": "wahai orang tua,didik yang betul kau punya anak,bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 429,
+    "kalimat": "Halah bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 430,
+    "kalimat": "Kalo tau malu gaakan nge bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 431,
+    "kalimat": "Mampus lu bangsat. Di cuekin ibu ibu.. ngabisin kuota gue lu kimaq",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 432,
+    "kalimat": "bangsat cuti dah habis",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 433,
+    "kalimat": "bangsat pada homo semua,, kirain yg komen cewe malah cowo anjeng,, cewe malah gak di respon asu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 434,
+    "kalimat": "aku dibesarin ibu seorang diri,terima kasih lu ga pernah hadir dalam hidup kami. bangsat anjg",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 435,
+    "kalimat": "Potong aja k9ntolnya tuh...bangsat nih org",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 436,
+    "kalimat": "Untung puasa klo gak udah gua maki lo anjeeng bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 437,
+    "kalimat": "Jijik bgt bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 438,
+    "kalimat": "Sok bijak, padahal bangsat!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 439,
+    "kalimat": "anjing absen gua kosong 2 hari, padahal tiap hari absen bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 440,
+    "kalimat": "dibuat bacol gpp klo dijual lagi ya lo emg bangsat anjing",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 441,
+    "kalimat": "ketrigger bangsat rcti kontol",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 442,
+    "kalimat": "anjing gw blm tidur bangsat, pas mau tidur malah di telpon sama bokap bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 443,
+    "kalimat": "pagi jay bangsat jangan lupa sarapan nyet",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 444,
+    "kalimat": "asu burung gembrot gw ga ngapa2in di tuduh robot bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 445,
+    "kalimat": "Duh anjing nama depan lo sama lagi kyk gue wkwkwkwk bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 446,
+    "kalimat": "susah benerrr bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 447,
+    "kalimat": "aaaa bangsat ketauan boong",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 448,
+    "kalimat": "Lama kelamaan eneg juga bangsat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 449,
+    "kalimat": "sm tuh dalem hati apa gak 'salah mulu gue bangsat' gtu ya anying, ngakak bgt pda suuzon",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 450,
+    "kalimat": "<USERNAME> TOLOL!! Gak ada hubungan nya keguguran dgn pake hijab syar'i yg lo bilang bayi nya kepanasan didalem gak ada hubungan nya woyyyy!! Otak sama jempol lo gak singkron sih ya jadinya asal nulis komentar!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 451,
+    "kalimat": "Geblek lo tata...cowo bgt dibela2in balikan...hadeww...ntar ditinggal lg nyalahin tuh cowo...padahal kitenya yg oon.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 452,
+    "kalimat": "Kmrn termewek2 skr lengket lg duhhh kok labil bgt sih mbak kya abege ajah ato yg kmrn cari sensasi biar top markotoppp ertong gk berkualitas",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 453,
+    "kalimat": "Intinya kalau kesel dengan ATT nya, gausah ke anaknya juga. Kasian buat perkembangan psikis anak kedepannya. Itu orang bener bener tolol, skrg seandainya dia punya anak, terus anaknya dikatain sama orang yang benci sama dia, gimana perasaan dia ? Benci sama seseorang boleh, tapi harus tau batesnya ?? toh namanya manusia, gaakan semua jadi penyuka, pasti ada haters ??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 454,
+    "kalimat": "hadewwwww permpuan itu lg!!!!sakit jiwa,knp harus dia yg jd peran utama di film hantu jeruk purut,ky khabisan stok Artis ja",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 455,
+    "kalimat": "Pantesan di tinggalin laki, ya lakinya juga mikir kali kalau perempuannya kayagni. Ngurus diri aja dia gak becus gimana ngurus anak, mending anak sama bapake nya aja bener didiknya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 456,
+    "kalimat": "kebiasaan balajaer nyampah d ig para artis..suka2 yg punya ig lah mau bikin caption apa,kok balajaer yg heboh dan asik ceramahin yg punya ig.tar lama2 d bikinin lagu sm teh melly loh balajaer yg berjudul\"ketika balajaer bersabda\"demi seonggak koin laknat nya.balajaer ngamuk berarti mengiyakan banget koin laknat nya jd penggoda d rt nya gigi.duh elah balajaer kami smua tau kale kelakuan biduan lo itu kek apa.minus segala2nya!lagi masih d bela mati2an,pd sakit jiwa",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 457,
+    "kalimat": "krn sebagian besar rakyat indonesia itu bodoh. Tdk bisa membedakan mana yg baik mana yg buruk. Sdh tau prilaku buruk tdk tau sopan santun itu yg dipilih jd panutan. Lebih mengidolakan yg murahan dr pd yg berkelas dan ber etika",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 458,
+    "kalimat": "ayu janda bego pny suami kpn nikah laginya?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 459,
+    "kalimat": "Anyiennnnggg.. Suaranya ancur banget, lebih merdu tukang gorengan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 460,
+    "kalimat": "Syarat sah nikah menurut agama islam hanya 5 yaitu : adanya CPP, adanya CPW, saksi, wali nikah dan mas kawin/mahar. Perkara makeup gak manglingi bukan syarat sah pernikahan. Sekalipun gak makeup tapi syarat yg 5 tersebut terpenuhi maka pernikahannya SAH yak emak emak julids",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 461,
+    "kalimat": "Cewek gatau diri nih, ngerebut pacar org. Udh mana punya abang yg ngedukung sifat jeleknya lg. Ckck",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 462,
+    "kalimat": "<USERNAME> eh... Situ siapa??? Kids jaman now ya kebanyakan micin.. Mna kata aku yg ngina??? Bego dipelihara??????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 463,
+    "kalimat": "Jijik liatnya suer deh minceeee",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 464,
+    "kalimat": "Emang bukan hal tabu ciuman gitu (iya emang) tapi yg bikin eneg itu \"PENCITRAAN\" nya yg sok alim sok baik sok bijak dan sok sok yg lainya. Seandainya dia lebih apa adanya itu lebih baik dari pada pencitraan. Bukan sok alim atau sok suci serius!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 465,
+    "kalimat": "Yg jd masalah disini adalah 1. mereka ciuman dpn org bnyk yg SEHARUSNYA sih punya rasa MALU, kecuali mgkn lg mabok jd gak ada rasa malu. 2. Mereka berteman?? Helooow sebuah pertemanan tdk akan melibatkan ciuman BIBIR, coba aja kalian bayangin, sanggup gak ciuman bibir ma TEMAN? pasti lbh dr teman lah itu. Dasar Kelakuan Kids jaman now yg emg bego, bukan krn kebanyakan micin lho yah ??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 466,
+    "kalimat": "Anjing nya ngamuk..hidup kok dmana2 pny musuh..udh kliatan mna yg baik dan bukan..org baik ga pny byk musuh..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 467,
+    "kalimat": "<USERNAME> ahhh katanya jaga ucapan, lahh ucapan dia ngk dijaga sendiri.. dasar munafik.. dasar betina zaman now ellu kali yangg kelebihan micin.. loe sendiri otak loe kan di selangkangan mana paham.. semoga Tuhan ampunin kemunafikan loe cun",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 468,
+    "kalimat": "<USERNAME> yaa ampun ini upil naruto,, kata2nya makin mencerminkan klo dia yg sebenarnya pecun.????pengalaman banget lu yaa. Kesian. Gua jadi prihatin. Mati aj deh lu. Ngotorin dunia manusia macam kau.??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 469,
+    "kalimat": "Cuman jual goyangan yak, suara macam taik...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 470,
+    "kalimat": "Kasian ih nyari uang sampe segitunya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 471,
+    "kalimat": "anjir tontonan yg sangat tidak bermutu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 472,
+    "kalimat": "Dlu inul goyang ngebor baju ketat dcekal. Hrs ny ni jg dg sgja goyang dada mulu, suara ga sbrpa. Mrsk moral ank muda yg nnton bawaannya nafsu aja nanti ????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 473,
+    "kalimat": "Pnyanyi dangdut yg ga berkelas bgini nih... bukan'y nonjolin suara malah nonjolin dada",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 474,
+    "kalimat": "Najis najis udh homo aja harusnya, org kaya gini di musnahkan dari muka bumi",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 475,
+    "kalimat": "Haduuh ini orang gak punya akhlak bangeg, perasaan kerjaan berantem mulu, banyak musuhnya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 476,
+    "kalimat": "S lonte ini bkn sensasi ngjak ribut org mulu sampah",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 477,
+    "kalimat": "Kayak banci dh mirip nenek2 pny cucu . Mw di operasi di mua top ttp aj klo asli ny g cantik luar dlm..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 478,
+    "kalimat": "Dan lebih bagus lagi kalo mingkem aja hahahahahaha jahatnya akuuu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 479,
+    "kalimat": "Walaupun Oplas ATAU dipermak sekalipun tetep jelek. POKOKNYA MUKANYA TEGANG KEK BANCI. UDAH SEKIAN??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 480,
+    "kalimat": "Mending liat dek molen biarpun cowok tp cuantik, gak kaya ini cewe tp malah kayak bencong wkwkwk ??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 481,
+    "kalimat": "bencong rombeng.menjijikan!!!gay jg.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 482,
+    "kalimat": "Orang gila itu ???? pengen HITZ cri tenar rela dipenjara? Cari sensasi settingan supaya beken smpe hina2 org,,, astagfirullah... Sekaya apa sih??? Org kaya mulut nya ky sampah,ga sekolah ya???",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 483,
+    "kalimat": "Cowok macam anjing cuihhh... Orang kaya tidak akan pernah berkoar gua orang yang ping kaya sedunia...karena semua orang juga tau klo dia orang kaya... Orang kaya malahn berperilaku sebagai mana orang sederhana buat apa memamerkan kekayaan di dunia di akhirat mampus lu harta kagak akan di bawa mati yang pants di buang ke laut itu lu orang yang paling anehhh",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 484,
+    "kalimat": "cari sensasi supaya tenar, trus banya folowers nya. gak gt gt jg kalee... darar orang setres, ngomong aja masih belepotan gk jelas gt. kamfungan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 485,
+    "kalimat": "ngomong aja belepotan banyak gaya lu bencong",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 486,
+    "kalimat": "Orang kebanyakAN makan TAIK ya gini!OTAKnya udah penuh sama TAIK jdi gak bisa berfikir positif!dari cara dia berbicara aja Gak BERMORAL!dasar kaum2 LAKNAT BANCI ANJING kbanyakan BURIT SIH LO jdi Stres!MANUSIA ogah JUMPA sama LO anjing!cuma ANJING yg mau ketemu sama LO taik!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 487,
+    "kalimat": "Sikat abiss lahh orng2 sialan kaya gini. Pemimpin negara sendiri gak di hormatin. Jgn mentang2 Bapak President kita terlalu baik jadi di sembarangin. Saya marah.. Gak boleh kita hina pemimpin kita sendiri.. Saya harap segera di tindak hukum orng iniÖ",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 488,
+    "kalimat": "Jijik banget lihat tingkah si upil ini. Mudah2an secepatnya tidur selamanya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 489,
+    "kalimat": "WONG EDAN NIH ORANG, UDH MAKAN UANG RAKYAT TIDUR PULA",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 490,
+    "kalimat": "Manusia laknat, matinya di apain ya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 491,
+    "kalimat": "Sakit di otak sama hatinya itu mah dia. Udah gak ada nurani dan urat malunya. Pajak saya loh yang ngegaji orang2 gila hormat ini",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 492,
+    "kalimat": "Anak babi bangsat pengen sumpel timah panas ke congor lu biar modar",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 493,
+    "kalimat": "Pengen sumpel timah panas ke congor si anak babi pesek buruk rupa",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 494,
+    "kalimat": "Hey anak bangsat babi pesek buruk rupa keriting.pengen penggal leher lu sampe putus??lumayan buat makanan buaya??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 495,
+    "kalimat": "RATU PELAKOR SEJAGAT RAYA, DIMANA2 LONTE YA GAK PUNYA MALU. YG NGERASA LONTE DISINI TOLONG PUNYA MALU DIKIT",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 496,
+    "kalimat": "Wah ini mahhhh pertemuan buah ranum dan buah busuk ??....dah tau dong yg busuk yg manah ??????????....mentok2nya mah gitu aja kalo pelakor??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 497,
+    "kalimat": "Ah manda mah gatel, ga bisa liyat cowo dikit lgsg disosor.. Begok aje yg mau ama manda . kegatelan jadi cewe",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 498,
+    "kalimat": "Si amanda mukanya ke tante\" umur baru berapa tp muka boros banget .... dasar cabe . Jujur gua mah kgk suka ama ni haltis",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 499,
+    "kalimat": "Astagah, demen ama cewek dekil kumel. Ibaratnya dari nagita turun ke att. Nagita kaya emas att kaya barlen",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 500,
+    "kalimat": "Alah laki laki jaman skrg sm aja. Sama sama bejat. Mau ustad kek bukan kek gila bgt sm perempuan yg bukan istrinya. Aku stju bgt sm yg di blg ustazah  <USERNAME> . Msuk surga bkan krna poligami. Msh bnyk hal yg kita buat supaya bs jd akhlak baik untuk bs masuk surga. Yaa smoga aja sih perempuan perempuan pelakor diluar sna mendapat azab yg gak diampuni. Yang hidupnya gk bakal selamat dunia akhirat",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 501,
+    "kalimat": "Gilaaaaa pelakor banyak bnget laki2 gatal juga banyak alasan untuk berpoligami woiii mikir pake otak haduh saya pikir dia org pintar tau agama mana baik mana buruk.... Allah menguji kesetiaan dan nafsunya eh malah kaya gtu... Menyakiti istri sama sja menutup pintu rejekimu... Anak istri kau korbankan! Sbg seorg imam keluarga dia telah gagal mmpertahankan rmh tangganya mencoreng nama baik nya sndiri... Smua org suka skrg benci sama dia.. M",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 502,
+    "kalimat": "Biasalah kalo pelakor banyak yang lbh ancur mukanya dari istri sah.. barang bagus pasti cepat laku, karena pelakor jelek nggak laku makanya ngembat laki orang.. ya udah sama2 GATEL kok.. cocok wes..  <USERNAME>",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 503,
+    "kalimat": "lama2 ilfil deh sm ni ertong. caption/ig story nya ngomongin org mlu, org kan jd ambigu nilai si a si b si c. udah gt kaya paling di zholimi, salahinnya depan lawan dong jgn ngmg di status ah. kata nya dewasa ??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 504,
+    "kalimat": "<USERNAME> ini lagi pemikiran manusia bodoh, eehhh tante/ibu/oma/empo, otak lu picik bngt ya, dia jga manusi biasa ada larangan emang di dunia ini orang di larang ngungkapin unek2???? stupid human",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 505,
+    "kalimat": "Heran deh yg ngatain si via baperan ya wajar lah dese baper karena udin muak sama orang yg munafik sok\"an baik sama dese, lah apa kabar yg sering baperan sama laki orang ? Ga pada nyadar diri tuh pemujanya att, bukannya pada gotong royong buat nasehatin att ini malah menggila buat muja\" att dan mojokin viaa. Dese juga manusia keles ahh",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 506,
+    "kalimat": "<USERNAME> itu yg komen via nyinyir mulu duh kyak dia gak pernah nyinyirin orang aja, mungkin lebih parah, kalo org sudah sok bener mah gitu, pdhal ini kan media sosial, hak dia dong instagram juga instagram dia, yg penting kan nyinyir gak pake ig s",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 507,
+    "kalimat": "<USERNAME> ini lagi pemikiran manusia bodoh, eehhh tante/ibu/oma/empo, otak lu picik bngt ya, dia jga manusi biasa ada larangan emang di dunia ini orang di larang ngungkapin unek2???? stupid human",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 508,
+    "kalimat": "<USERNAME> bisa nya cuma ngatain org . Nyindir siapa ..netijen goblog banyakan masyako !",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 509,
+    "kalimat": "<USERNAME> cara didik ortunya nagita bagus, makanya amat sangat heran dg balajaer, kan nagita yah yg dirugikan sm junjunganny.. Knp dia yg dibenci, bodoh bgt asli.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 510,
+    "kalimat": "<USERNAME> pdhl km lebih kampungan loh,pake kerudung tapi mulutnya cuihh..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 511,
+    "kalimat": "Belajaer tuh apa ya? Hahahaha bela artis ampe sebegitunya... manusah2 begoh ????????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 512,
+    "kalimat": "<USERNAME> iya banyak berarti mereka norak kampyuung, coba liat artis yang adem ayem liat isyana liat agnezmo liat mba liaaat..... jangan diliat aja coba di telaah deh, dikasih tau contoh artis yang better eh jawabannya begini ya cocok la",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 513,
+    "kalimat": "<USERNAME> gak usah sok jadi high class mba, liat komenmu sendiri, memang semua artis itu sama, beda2 mbak, ada yg suka curhat di ig, ada yg curhat ke temen ada yg curhat ke Tuhan.... ngak usah trus mulut situ maju dulu otaknya belakangan mikirnya, yg curh",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 514,
+    "kalimat": "<USERNAME> lah goblok amat, gak semua netizen yg kontra sm postingan si via ini bakajaer kali, mba/mas. Ih goblok kok dipiara. Lol",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 515,
+    "kalimat": "Ini siapa sih emg artis? Ko artis indo bukan ny ngurus prestasi malah di sosmed ny beginian mulu isi nya jd jatoh nya kampungan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 516,
+    "kalimat": "<USERNAME> baru itu aj kn y mba, apa lagi kaya agnes mo bnyk penghargaan ny tp g kampungan beda am yg ini",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 517,
+    "kalimat": "Munafik bgt yg ngomong curhat di sosmed kampungan... Gua yakin elu juga kitu keleusss wkkwkww..... Mending mba via dia artis cantik bs nyanyi.. La elu pada? Lbh kampungan wkwkwkwkw!!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 518,
+    "kalimat": "<USERNAME>.wawan zzzzz emng ini artis ga punya tmn apa? Dikit dikit att hahaha lagi juga apa apa curhat di sosmed kampungan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 519,
+    "kalimat": "Lemes ya mulutnya. Berani lewat ststus udah gitu tulisannya sengaja biar ga kebaca takut kali di labrak. Mmmm artis masih kampungan sih ya jadi wajar lah ya ????????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 520,
+    "kalimat": "<USERNAME> main main lah ke jawa timur.. Biar ga begok!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 521,
+    "kalimat": "<USERNAME> bisa nya cuma ngatain org . Nyindir siapa ..netijen goblog banyakan masyako !",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 522,
+    "kalimat": "<USERNAME> dia udah nunjukin karyanya, situ pny karya apa? Karya nyinyir hidupnya Via?? Tolol ??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 523,
+    "kalimat": "<USERNAME> siapa bilang gw fansnya Via?? Duh nantangin gw nih org... anak tolol ank alay, jablay!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 524,
+    "kalimat": "<USERNAME> yutub apaan ya mba? Aplikasi baru ya? Sy taunya youtube. Mba gak tau apa ya seseorg bs dpt penghasilan besar salah satunya dr youtube loh. Mreka jg di bayar apalagi klo bnyk yg ntn video mreka. Sekolah yg bener deh mba biar pinter. Generasi muda",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 525,
+    "kalimat": "gue suka gangerti deh yaa, kenapa kalo via vallen bikin status atau apalah itu disangkut pautin ama att mulu?? padahal att nya aja biasa aja.. Fansnya sih yg bikin jelek.. Orang kalo di sangkut pautin mulu jg lama-lama gerah kali..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 526,
+    "kalimat": "Jujur aja ya ni org malah bagusan kaga oplas..ada tu foto dia sblm dn sesudah oplas..dioplas mukanya aneh...kyknya gagal oplasnya...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 527,
+    "kalimat": "Noraaak abiiis... Baru kebeli emas az pamer aplg mainan berlian ciiinnnnn.... ??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 528,
+    "kalimat": "Before and after pasca oplas ga ngefek ya.. tetep jelek n serem mukanya..ahahahhaha..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 529,
+    "kalimat": "Salfok ke mukanya, sumpah jelek... Oplas apaan model begitu... Failed!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 530,
+    "kalimat": "Norak bener. Kegaet penjahat baru rasa.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 531,
+    "kalimat": "Najis..,apalagi d philipine biasa bgt kali,d sana aj bangga..jd perusak moral ko bangga..najis banget liatnya.ckp d sini aj komen ny,dia pngn ngetop lwt nitezerrre.....wkwkwk..ngarep laku",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 532,
+    "kalimat": "Yang gua bingung jujur kenapa media pada rebutan ngeliput ini orang. Kayaknya cuman net doang media informasi yang masih waras",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 533,
+    "kalimat": "Bukankah Jedun yg ga becus jadi perempuan terhormat, ga becus jadi perempuan cerdas, ga becus jadi perempuan yg mencari suami sah bukan suami orang, ga becus jadi perempuan yg menghindari narkoba, ga becus jadi perempuan yg menjaga nama baik keluarga... semoga hanya ada satu perempuan yg kayak lu di dunia ini ya Jedun",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 534,
+    "kalimat": "cewe yg bgni yg hrsnya gosong jd abu aja di kebakaran pabrik yg lg viral kmrn tu. bnr2 slain ga brguna, gda otak.. cm modal ngangkang trs gebet laki org trs bangga.. btw klo emg instastory nya buat nyindir sesebini tua mah. ehhh at least biar ga becus jd prewi tp becus cuii jd emak. buktinya anak nya bejibun trs smua pro ke emaknya drpd bapaknya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 535,
+    "kalimat": "Hahaha..kasian ya...gak becus jadi perem...harus ngerebut laki orang dulu biar dikata \"perempuan\"? Dasar perempuan tak sadar diri ente cuy.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 536,
+    "kalimat": "Dasar artis abal abal enggk laku di layar kaca...udh Enggk ada duit kere Miskin..Jadi maen k dukun buat minta elmu pelet perebut suami org yg kaya...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 537,
+    "kalimat": "ih dia kan paling becus makrum, paling becus ngrebut suami orang hehe????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 538,
+    "kalimat": "Eeee si pelacur. Situ becus jd brempuan emang? Becus jadi sampah sih iya. Edeuuuuuh lonte lonte",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 539,
+    "kalimat": "Biarin,,,puas puasin mumpung deseu masih brasa muda. Ntar klo dah tua juga nyaho! Karma itu ada.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 540,
+    "kalimat": "Dia ini punya anak perempuan lho. Ibu macam apa contohin jelek ke anaknya. Jauh dari kata BECUS ini perempuan. Amit amit...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 541,
+    "kalimat": "Kaya becus aja jd permpuan dia yng g becus jd perempuan ko sukanya sm laki orng heheh",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 542,
+    "kalimat": "Yg gk becus tuh loh jedun...hidup nya cuma bisanya ngerusak kbhgiaan org lain .mau hidup serba mewah tp g mau krja mlh morotin laki org..karma psti akn mnghampirimu????????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 543,
+    "kalimat": "Gue gak suka sm ni orang. Idupnya kebanyakan ribut.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 544,
+    "kalimat": "Dasar artis abal abal enggk laku di layar kaca...udh Enggk ada duit kere Miskin..Jadi maen k dukun buat minta elmu pelet perebut suami org yg kaya...",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 545,
+    "kalimat": "Yg nama ny plagiat ya plagiat, walaupun laku tp tetep ajah ciptaan dri hasil plagiat..wkwkwkwk gua mah ogah dwngerin ajah udh pngen muntah",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 546,
+    "kalimat": "Dasar plagiat semuanya, ga bisa kreatip.memalukab bgt",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 547,
+    "kalimat": "Dan dengan begonya dia bilang \"apanya yang sama yaaa liriknya aja tentang percintaan gitu kok lagu saya\" bener2 tolol si ayu. Gapunya kuping apa y orang yg dipermasalahin nadanya ????????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 548,
+    "kalimat": "Itu pacarnya anggel pietrs kali.... dan cowok itu juga masih bocah....  <USERNAME> yaelah jes.. terxta kelakuan mu sama aja sprti ayuting2 Hidupmu penuh dengan drama MURAHAN",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 549,
+    "kalimat": "japok gateeel emang,uda jelas dia ada main sama si mamad,sampe\" si jessica dimusuhin,deddy corbuzier aja jijik sama si japok semenjak nagita diundang di hitam putih berarti nagita cerita di belakang panggung,itu aja sih menurut gue",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 550,
+    "kalimat": "<USERNAME> lebih memalukan anda buk ...ngomong pelakor emang ibuk udah pernah jadi pelakor ya kok bisa tau ayu pelakor wkwkwkwkwk. ..awas ibu nanti malah justru rumah tangga ibu yg dimasukin pelakor atau anaknya nanti jadi pelakor ..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 551,
+    "kalimat": "Wah itu Kerdus mulutnya busuk...jangan jangan sampah makanannya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 552,
+    "kalimat": "<USERNAME> TAI loe di gedein bagus buat pupuk jngan bacot loe goblok !!! nih cewek knpa bawa2 suku ?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 553,
+    "kalimat": "LAH ELO ARTIS APAAN? PAPAN BLENYEK AJA BELAGU AMAT ARTIS APAAN KGA POPULER SAMA SEKALU HAHAHA",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 554,
+    "kalimat": "ANANG MUKA NYA KAYA BABIII GITU AJA DI DEMENIN JIJIKK",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 555,
+    "kalimat": "Kalau ga suka sama ayu ting ting ga usah separah itu dong ngejudge nya. Punya HATI dan OTAK kan? Dia juga manusia punya kekurangan dan juga punya kelebihan dan dia juga punya perasaan. Jadi jangan seenak nya menjudge orang seperti itu, kaya udah SEMPURNA AJA LO!  <USERNAME>",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 556,
+    "kalimat": "Ga pantes dipanggil ustad..org munafik ceramah sana sini org kelakuan sndr aja menzolimi istri sah nya dgn poligami diam2.kacian istri pertamanya,ga tw malu istri keduanya.. hadeh klo ada yg msh manggil dia bwt ceramah namanya bodo..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 557,
+    "kalimat": "Biadab!! Klo nanti anak lo di bully.. Gue mampusin ya!!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 558,
+    "kalimat": "Dasar ANJING tuh cowok bukan org, berani sama cowok biasa one by one jangan sama yg lemah, dasar yah cowok2 jaman skrg, casing doank cowok, nyali nya lebih2 dari banci",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 559,
+    "kalimat": "<USERNAME> iya kasian si micin?? padahal perusahan produk micin mengiklan kan kalo masak \"tambahkan micin biar tambah sedap\" netizen menyudutkan mecin seolah semua kebodohan orang yg punya gangguan jiwa ngemil micin??#justiceformicin",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 560,
+    "kalimat": "Wahh jngn2 ini Vidio lama...kok bajunya norak bngtt seorang ayuu...terlihat murahaan",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 561,
+    "kalimat": "<USERNAME> bego lo ya",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 562,
+    "kalimat": "Editan banget itu. Ya ampun si mommy lambe kehabisan gosib ya buat si pelakor ?????????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 563,
+    "kalimat": "yah admin nya termasuk golongan pengonsumsi mecin dan pil pcc.. otak lu rusak min?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 564,
+    "kalimat": "cuma org govlok yg prcya ayu slgkuh sma rafi.buktinya rafi sma gigi skrg baek2 aja..dan ktamu ayu itu pelakor?? SUAMI Siapa yg d rebut woyy?? skrg ayu punya suami?? fikir pke otak mkanya jgn kbanyakan micin kan jdi govlok",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 565,
+    "kalimat": "<USERNAME> hoy barisan sakit hati ?? jijikk banget.. fans billy mah ALHAMDULILLAH bgt billy putus sama manusiaa buluk ituu... itu yg ditunggu lama2 akhiry putus juga.. dan sekarang kobil jg jijik sama ni orang :v",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 566,
+    "kalimat": "MBA  <USERNAME> KALAU lu GAK NGERASA CINLOK SAMA BABANG ANTHONY TERUS KALIAN AWALNYA KETEMU DIMANA SIH? DI SINET BOY KAN? ALAH NGAKU AJAAA. BERARTI KAN MBA DUMANG CINLOK, JANGAN SOK2 BILANG GAK CINLOK ITU NAMANYA PEMBODOHAN . WAJAR DONG NETIZEN BILANG RATU CINLOK KENYATAAN EMANG YA KAN? JANGAN MARAH .... RESIKO JADI ARTIS HAHAHHAA PINTER2 YA MBA KALAU MAU CARI ALASAN HAHAHAHAHA",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 567,
+    "kalimat": "<USERNAME> Noh urus tu kuin lu, biar ga gatel nempel2 ama laki orng, masyarakat udh tau kali japok gundik janda gatel,udh kenyataan nya begtu KATANYA ANAK SHOLEHAH AGAMA NYA KUAT TAPI MATA KULIAH AGAMA CMA DPT 1,KATANYA AGAMA NYA KUAT TPI HAMIL DI LUAR",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 568,
+    "kalimat": "<USERNAME> bilang tu sama kuin lu, jangan gesek grepe ama lakik orng, ga malu apa udh hamil di luar nikah, kegatelan amat jadi janda",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 569,
+    "kalimat": "<USERNAME> please lo jangan bela pelakor,ini semua hukuman untuk si muljem karna uda tega recut suami sahabat sendiri,dia lagi menjalani sanksi sosialnya!! kenapa valakor mesti dibenci?? karna biar ga ada valakor\" lainnya di Indonesia,biar musnah sem",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 570,
+    "kalimat": "NAJIS. INI BARU MUAKK, MENJIJIKAN, PELAKOR. JIJIK",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 571,
+    "kalimat": "Semoga pelakor2 kena karma dan semoga dapat karma yg meninggalkan istrinya yg bwrjuang dg dia dr nol tp setelah sukses selingkuh dan sok jd penguasa ke istri ya..",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 572,
+    "kalimat": "Sedih ya skrg ngamen di kawinan org .. mantan istri mahhhh naik pesawat jet .. bhay pelakor n botakbego ??????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 573,
+    "kalimat": "<USERNAME> heeehh lo pelakornya yaaaakkk??? Ngapa lo jadi emosi??? Situuu kenal gw??? Kalo berani pake akun asli dong. Pantes pake akun bodong! Ngerebut laki orang juga diem2. ?????????? keceplosan yak pake aku bodong. Ngakak gueeee ?????????? lucu lo!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 574,
+    "kalimat": "Wkwkwkwk udh gak laku lagi jd nyanyi dhajatan si lonte pelakor",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 575,
+    "kalimat": "<USERNAME> wakakak banyak lah cerita kyk gituu, buat pembelajaran aja.. jgn sampe ni swamik swamik lebih milih ke pelakor drpd istri pertama. Bakalan hancuuurr bookk ga bohong deh. Bakalan kere bakalan kismin bakalan nyungsep. Emang yg ngatur rezeki tu tuha",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 576,
+    "kalimat": "Ini cwenya yg bego apa cwonya yg pinter ya ?! Emg lakinya kaya ?! Atau macho atau apa gitu plus nya ? Kayanya cuma jago gombal ?? atau maennya gesit ?! Ulala #ngakakabis",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 577,
+    "kalimat": "<USERNAME> lu itu yg bodoh! Ngapain keluarga depok komen org yg gak ada artinya lagi buat mereka??. ..cuma kalian aja yg hidupnya gak bahagia yg suka menghujat orang dan hidup artis ayu terlalu berpengaruh buat lu!!. Emang dasar lu benci ayu..klo",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 578,
+    "kalimat": "<USERNAME> saya mah lihat yg terlihat jelas.. bukan main prasangka kayak elu.elu itu haters kayak dukun...dukun titisan dajjal .. sok Pinter tapi otak kosong?????? sorry ye.. gue bala Nabi Muhammad yg percaya klo udh ditunjukkin 4 saksi Dan bukti.. klo",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 579,
+    "kalimat": "Mata ku sepet baca koment fans ubul empang ..minggir woy bikin rusuh aja nih jaer amis jijik sumpah.soal enji sm cewek lain ttp aja bala jaer nyampah bikin ribut .",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 580,
+    "kalimat": "Ini siapa sih si enji, hartis kah ? Males banget jijik laki model beginian mah gak ada tanggung jwbnya. Ayu bunting di tinggalin anak gak di akuin, skrg anak udh nongol bilqis cantek eh sampek bini nya ngeposting yg seolah enji kangen anaknya. Najonggg jijik betoll.. Dah deh min gak usah di bahas lagi laki macam begini, hartis aja bukan gak ada panutan yg bisa di ambil  <USERNAME>",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 581,
+    "kalimat": "<USERNAME> bego nya lagi pede amat ngomong seolah yg dia bilang paling bener, padahal bukti aja kaga ada. Mau keliatan pinter jatohnya bego??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 582,
+    "kalimat": "Yang pada bilang enji ganteng bebas slingkuh bego kali. Ganteng pala lu bau menyan. Gada ganteng ganteng nya. Kebanyakan gaya kek mantan bini depok nya.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 583,
+    "kalimat": "Sebenarnye cocok enji sama att, sama sama GATEEEEL hahah pantesan si tongtong dipertemukan dgn enji, udh hukum alam klw jodoh kita cerminan diri kita, nah si entong hrsnya bekaca dgn masa lalu biar sadar tp teryata otak 1 M tetep mau di pertahankan jd skrg mlh menjadi jadi guatelnye, sama aja kek enji, hah",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 584,
+    "kalimat": "<USERNAME> oalaahhh,, semakin banyak aja pelakor ?? laki nya jg kegatelan, tp namanya laki ibarat kucing di ksh ikan jaer gratis ya kga nolak wkwkkwkw",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 585,
+    "kalimat": "Begitulah laki2 ya sis, lebih suka pecun2 murahan, daripada prempuan baik2 berjilbab ato pintar. Enji2, kok downgrade sih? Dari pedangdut naik kelas prempuan berjilbab ehh milih sama pecun lagi.. jeleknya seleramu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 586,
+    "kalimat": "Motorninja aj songong amat mba org yg punya mobil lamborgini aj biasa wae kok ????????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 587,
+    "kalimat": "GoBlOk ?????? gua nonton berkali≤ kaget juga ??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 588,
+    "kalimat": "Ga usa pake anjing, babi!! ?????? kalo gw bls gitu wkwk",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 589,
+    "kalimat": "Oh ini toh yang kemaren TIDAK MENGHARGAI KARYA ORANG DAN SEENAKNYA BILANG JELEK BANGET... Aduh itu penganten perempuan nya KEKENYANGAN yah... Ampe kembung gitu perut nya... #pepuraLuGU",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 590,
+    "kalimat": "Dari awal percaya gimik Raffi gigi dn att...sehingga att peserta keluarga di hujad dn anak ny...di hujad ...semakin kesini penonton semakin di bodohin?? semakin publik tertuju mereka ??????yg kasihan para penghujad ....ga apa\" lah ayu ga ada di pesbukers biar dia ngeluarkn album\" baru single baru setelah para artis halan\" keluar nengri gimik\" apa lagi yoo",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 591,
+    "kalimat": "Kalo bener gimmick, bodoh banget si ayu cuma demi rating n popularitas berani taruhin harga dirinya buat di nilai buruk oleh mata masyarakat ????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 592,
+    "kalimat": "Susah otaknya diemvang mah bikin rusuh dilapak orang",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 593,
+    "kalimat": "najiiisss kayak si mba dese ga gitu ajaaa. hahahahaha maling teriak maling. ngaca buuuuuk",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 594,
+    "kalimat": "<USERNAME> IYAK KAA HAHAHAHAH geli bgt gasih sama att ih kampung abis:(((",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 595,
+    "kalimat": "JOGETNYA BIKIN NGAKAKKK ANJIRRRR, KAMPUNGAN BANGET??????  <USERNAME>  <USERNAME>",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 596,
+    "kalimat": "Bagus la gue berarti ada otak gak kayak lu malu maluin mak lu aja tong akun asli di pake tu yg namanya bego!  <USERNAME>",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 597,
+    "kalimat": "Yg bego mah elu, ibu mana sih yg mau ngasih contoh buruk ke anaknya , pake mata lo, emg ada di dugem bawa anak , bego sih -_- jaman udah texas , dan gue jamin dijaman anaknya jga pasti udh lebih texas . Selagi ga ngerugiin lo yaudah . Sewot banget .",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 598,
+    "kalimat": "Si wanita jahiliyah.. Lesbi , skrg udh py pacar lg. Kasian anaknya. Kmrn di ksh bencana slnya dia tega misahin anak dr bapak nya, dia ktakutan anak nya masuk islam pdhl bp nya g prnh nuntut anaknya memeluk islam. Udh di ksh nikmat anak 3 org, msh aja begajulan.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 599,
+    "kalimat": "<USERNAME> gw tanya. Emang kador artis beneran? Komen lo tolol sumpah. Masa harus kenal dia buat nilai dia artis atau bukan. Hahaha semua org indo jg pasti setuju kalo kador bukan artis tp cuma celebgram dr kampung. Lo tau kan bedanya artis dg selebgra",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 600,
+    "kalimat": "<USERNAME> hahahaaaa trs gue tanya. Lo tolol? PAke nanya kador bencong atau ngga padahal blm kenal wkwkwkwkw. Eh semua org jg bisa nilai si kador bencong beneran dr gerak gerik melambay suara ngondek dan pake baju cewek begitu nyaman. Mana ada cowok tu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 601,
+    "kalimat": "<USERNAME> maklumin shaaay... Fans gatis keras itu otaknya bebel, realita seperti apa jg ga bakalan dia terima... Seperti halnya nagita itu artis uda dr jaman dia kecil eh di bilang numpang tenar ke rapi mamad,pdhl kan yg jadiin si mamad gede y PH n",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 602,
+    "kalimat": "<USERNAME>.bee idih najong lu tag2 org! Nimbrung aja kek mujaer lo! Dia ga bakal terkenal klo ga bawa2 nama ayu ting ting sm nagita! Duh bego dipiara! Kesian",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 603,
+    "kalimat": "langsung saja bilang siapa yg di maksud, klu gini namanya MUNAFIK!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 604,
+    "kalimat": "Jedar emg muka 2 kali, didepan baik, dibelakang busuk, mulutnya kek banci cucoklah 2 banci tu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 605,
+    "kalimat": "AMIT AMIT DEH ORANG JAHAT... PENJILAT PEMBOHONG PELAKOR JIJIK BANGET",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 606,
+    "kalimat": "Wkwkwkwk... Ya Allah ya Tuhan ku knp lah org2 munafik ni tp sok suci, mulan jamela kan ayu ting2 ngikuti jejak a bukan? Wkwkwk  <USERNAME>",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 607,
+    "kalimat": "Dlu si pelakor ini yg sombong krn brhasil dapetin si botak smpe mnceraikan bunda maya,skrg hdp ny mkin anjlok malah bunda maya yg sring jelong2 kluarnegri..??????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 608,
+    "kalimat": "Hahhahaha dan sesungguhnya allah swt melaknat wanita perebut dan pezina dengan suami sah oranglain ????????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 609,
+    "kalimat": "@w.lina2706 hemmmm capekmiskin sist, skrg blik kere lg jd artis jg g laku, dah lah karma tu pasti ada...  <USERNAME> dr pada sirik nyinyirin nyonya, tuh bantuin jualan cireng nya tuh, cilok nya tuh untunnya buat liburan monaco, jangan bromo trus",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 610,
+    "kalimat": "Kepo juga sm nyonyiah lu jongos  <USERNAME> emng tetehlu pas hamil peak udeh dinikahin ?? Brojol anak br di sirih EMNG LONTEEEEE kelas akun jamahliur dan junjungan hehe ??????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 611,
+    "kalimat": "Eh jongos cba gue duluan yg nanya sm lu .. emng nyonyiah ada gembar gembor udah nikah.. adakah nyonyiah ngaku udeh nikah ???? Dr pada tetehlu yg lonte perek itu tiba\" brojol dan ngaku nikah siri sm laki nyonyiah dan hamidun sapeak anak ilegal dibilng FITNA KEJI haha lonte menolak lupa xixix ??????  <USERNAME>",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 612,
+    "kalimat": "<USERNAME> sini gua jawab currr ya bunmai sdh pernah nikah Tp sekarang janda dia janda karena suami nya di rampas Mulan jameela,menjijikkan banget ya Mulan jameela sblm rmh tangga bunmai hancur sdh berani bilang Dani suami bersama aduha udh wanita be",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 613,
+    "kalimat": "@w.lina2706  <USERNAME> lucu aja ya sist, lonte di bela2 mati2an... Guoblok di pelihara, di bayar berapa gt sama muljamban, sampe bikin account  <USERNAME> mau maia nikah atau blm nikah apa urusan situ, kelihatan nyinyirnya sirik nya. Sekarang balik",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 614,
+    "kalimat": "Yaela muljem kyak stu bner aja. Gag inget apa udh ngrusak kbhagian klwrga org. Bego d prtahanin y gini ini,",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 615,
+    "kalimat": "Banyak lakik doyan banci! Jadi banci & kawinin banci.... jijik!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 616,
+    "kalimat": "<USERNAME> itu comment yg tidak anda lihat, ada brp banyak. Jangan jadi pengguna medsos yg bodoh jangan asal bunyi. Situ sehat pakai hijab masi nyinyir aja??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 617,
+    "kalimat": "<USERNAME> malu tuh sama kerudung lu sayang, sama ibadah nya. Sholat aja drpd nyinyirin org dandanan udh sok suci mulut nya kaya sampah??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 618,
+    "kalimat": "<USERNAME> tolong di baca arti dr comment saya, udah kerdus+bodoh lg bilangin org tua nya besok kalo masak jangan pakai mecin, jd udah kerdungab ga sesuai mulut. Besok makan salmon kalo g mampu besok aku tak deliv ke rumahmu .",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 619,
+    "kalimat": "Maaf mukanya jelek terus attitude nya buruk,,spesialis plagiat,,dan ketauan pula ,,,",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 620,
+    "kalimat": "ini orang otaknya ga pernah di sekolahin ya? itu resiko ketika udah upload sesuatu di sosmed, ya pasti bakal dapet perbincangan dari netizen. public figure kok ga ada otaknya.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 621,
+    "kalimat": "Artis kampungan wkwk",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 622,
+    "kalimat": "Iyaaa gue pernah pacaran? Udah nikah malah, tapi gak seNORAK eloo.. Gak risih emang? Jgn asal aplod, Perhatiin followers lu yg lumayan banyak itu, tar kebawa norak.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 623,
+    "kalimat": "y ampun pnyanyi dangdut kurang tenar songong bangt BACOTNYA ??pngn nyari sensasi tapi kmpungan bangt deh amit amit bool ko d instastory",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 624,
+    "kalimat": "Waaaaoooo..sopan sekali.. bahasami menunjukkan kelasmu !!! Heeeehh.. yg repot ama hidup lu siapahh ?? Elu live nampilin hal2 gak penting..yg nggilanikk.. menjijikkan..diliat org banyak.. ya pantes lah dikomen..klo gak mw dikomen videoin pribadi aja.. nonton sendiri lu ama kluarga lu di rmh.. nambah lagi niy ertong yg gak pny attutude!! Kampungan!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 625,
+    "kalimat": "Norak sih,kayak ga ada malunya.kl dia bilang terserah dia,ya udah,simpan fotonya.gak perlu dibagi kesemua orang.lah ini dipamer kemana,resikolah dinyinyiri orang.Insecure banget,kudu ya pamer2 gitu biar semua orang ngerti kl si mbaknya udh py pacar yg bisa dipamer2 pantatnya?Kampung bgt",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 626,
+    "kalimat": "Koq marah sehhh???dasar wanita kampungan...??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 627,
+    "kalimat": "Kampungan.... Artis yg numpang tenar gara2 mukanya mirip Katy Perry doangÖ",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 628,
+    "kalimat": "Susah kalo artis kampung",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 629,
+    "kalimat": "Ah min, gue lama2 gak suka sama akun ini nih! Berita nya basi! Lo liat dong min.. itu si kellen sama amora lagi dateng.. pake ikut jingkrak2 kok!! Lo saring dulu dong min.. biar berita nya gak blunder.. lo posting juga tu KD udah posting videon kellen ma amora lagi joget2 ma si arsya arsyi!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 630,
+    "kalimat": "<USERNAME> iya\"km bening, kelewat bening jadi buluk kan ya mbak ?? mbaknya baru nelen apasih komen kaya gini? Apa baru kesurupan ?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 631,
+    "kalimat": "kita sekeluarga sangat ngefans dan kagum lihat  <USERNAME> semua nya deh.tapi lihat anak nya yg jelek,buluk kan.  <USERNAME>.hermansyah  <USERNAME> kutuk kan apa yg menimpa bunda KD untung Allah swt sudah menggantikan amora dan adik nya.gemezzzzzzz lihat nya cocok banget jadi Anak artis se class bunda KD ??????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 632,
+    "kalimat": "Emang dasar si anak nya aja yg lebay....urusan pribadi di umbar..biar di blow up... hadehh..gunanya whatsapp sms or telp buat apa..suka aneh....",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 633,
+    "kalimat": "Coba liat bibir mu sayang, seperti pantat ayam. Wajah mu bulukan seperti kentut?? perfectoooo?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 634,
+    "kalimat": "Gagal fokus dengar suaranya.. koq jengkel ya dengernya... sorry cuman manusia biasa kalo jengkel????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 635,
+    "kalimat": "Muljem ngomong gak jelas blepotan, gak nyadar mau idup enak aja pake rebut laki orang dulu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 636,
+    "kalimat": "??lucu ya si yg bikin kata2.bawa2 Tuhan.kalau dah kepepet. Masa dia ga tau ibarat apa org yg merusak rumah tangga org.ibarat merobohkan bangunan masjid mbak nya.bayangin aja seberapa besar nya dosa mu.nasi dah jdi bubur mba nya moga bisa bahagia di dunia.??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 637,
+    "kalimat": "Iyah bener. Tidak Akan merubah pandangan Tuhan terhadap Kita. Terutama elu Setan!! Makanya mikirrrr.. suami majikan kok diembat!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 638,
+    "kalimat": "Gilingan mulan jalang lg kasih ceramah. Hahahaha . dasar cireng gak tau diri gak pernah ngaca. Si cireng lg ceramah sok2 kyk pahlawan kesiangan biar bisa berteman ama sekuter kyk selpii ini.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 639,
+    "kalimat": "Ya pandangan Tuhan terhadap lo juga jelek sih gue rasa, dikira perebut suami orang tuh mulia apa dimata Tuhan?????????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 640,
+    "kalimat": "Karna sejatinya kau adalah setan berwujud manusia ,,karna pekerjaan setan ya menggoda manusia ????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 641,
+    "kalimat": "Pernah ngga mba  <USERNAME> baca ada netizen yg nyesel ga bs nimpuk telor ke si mulan..gw aja ketawa bacanya krn terwakili. Ya ngapain buang2 wktu ketemu orang gak mutu dng si mulan...msh untung nyempet2in bs nuli? disini biar nyadar tuh pelakor ga punya harga diri. Mending ketemu org baik2 spt bunmai...ketularan aura positifnya.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 642,
+    "kalimat": "Editanx paraaaahh...oplas aj laaah nyai drpd ngedit2 gn hahaa kn maluuu",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 643,
+    "kalimat": "jelek,lecek,bantet ??????",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 644,
+    "kalimat": "Gini amat pengen tenar ya ampuuun...malu kalo jadi anaknya yah kasian",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 645,
+    "kalimat": "Heran gw mak  <USERNAME> knp dia masih aja di pake ma AN*V di pesbu**r. Kasus ny bederet, skandal bertubi2.... Gk ada malu ny ?? muka tembok ?? sangat gak ada faedah ny nonton acara yg ada si manusia kardus ini ??",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 646,
+    "kalimat": "wey org goblok juga bisa bedain vape, shisha sm rokok. jelas jelas lo ngerokok pake acara ga ngaku segala",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 647,
+    "kalimat": "Jijik saya liatnya...kaya ulet bulu kluget2 gitu...hihihi..ampe sgitunya pengen terkenal...!!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 648,
+    "kalimat": "Jablay anjir mukanya... Murahan bangetttt najisss",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 649,
+    "kalimat": "<USERNAME>.alycia iya sist jijik banget gw liatnya sok suci ngatain orang kalo gw sih malulah artis papan atas tapi otak gak di fikir kalo ngomong ,ketauan bngt gada wibawanya kalo emang dia nyadar dia siapa seharusnya dia tau cara berkomentar manusia gada yg",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 650,
+    "kalimat": "yang sabar yaa.. insya Allah menjadi pembuka pintu syurga dan penghalang api neraka bagi kedua orang tuanya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 651,
+    "kalimat": "Lagu barunya mbak tata kan kisah nyatanya rumah tangga mbak tata.... jadi rasanya mbak tata bener2 sayang get sama suaminya... syukur kalau baikan.... semoga awet...",
+    "sentimen": "positif"
+  },
+  {
+    "id": 652,
+    "kalimat": "Yg komen kenapa si mbak ini ga sedih malah ketawa2.. ya iyalah klo kita dah disakiti sm pasangan smpe berlarut2 ngapain juga sih kita sedih ampe depresi segala.. serahin sm Allah aja..bawa happy aja mski sakit.. lagian si mba senyum2 di wajahnya tp hatinya mana tau kan... senyumannya bs jd buat menetralisir kondisi hatinya yg lg terpuruk... ada pepatah bilang ,, klo bahagia jgn trllu bahagia, klo sedih juga jgn trllu sedih... diimbangi aja biar ga gila ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 653,
+    "kalimat": "Suka banget sama pasangan satu ini. Semoga gigi dan raffi menjadi keluarga sakinnah, mawaddah, warrahmah. Semoga tidak ada pihak2 yang ingin memisahkan mereka. Jodoh sampai maut memisahkan. Amiin",
+    "sentimen": "positif"
+  },
+  {
+    "id": 654,
+    "kalimat": "Jemima kan anak angkat celine, eleeya anak hubungan celine dan dirly. Dan saya terharu saya tau kalau jemima adalah anak panti asuhan yang dia rawat. Dan wajar kalau stefen lebih pilih celine karna hatinya baik",
+    "sentimen": "positif"
+  },
+  {
+    "id": 655,
+    "kalimat": "Lucu yg blg stefan menghabiskn masa muda wkwk.umurnya mah gak muda mukanya aja yg baby face. Bersyukur.bonus buat celinenya?? lah dlu mantannya begimane. Dibawah umur ude pacran mcam laki bini. Hiks. Selepas tu yakin deh susah mengambil keputusan kaya stefan. Tipical cowo yg tnggung jwabnya tinggi",
+    "sentimen": "positif"
+  },
+  {
+    "id": 656,
+    "kalimat": "Dan lagi ada yg masih bawa2 keenan ????. raisa udah paling berbahagia ngedapetin suami yang super ngemong dan mature kaya hamish. Raisa itu cukup dewasa di banding wanita seumurannya yang masih mikirin dirinya sendiri. Jd menurut gue raisa dan hamish sama2 beruntung bisa menjadi sepasang suami istri. Ga ada tuh gagal move on ???????? so congratz raisa dan hamish. Semoga pernikahannya sakinah mawadah dan warahmah",
+    "sentimen": "positif"
+  },
+  {
+    "id": 657,
+    "kalimat": "Raisa cantik yaaa, meskipun artis tapi ga menonjolkan kalo nikah tuh harus mewah, udah cantik, sederhana, sempurna bgt,",
+    "sentimen": "positif"
+  },
+  {
+    "id": 658,
+    "kalimat": "Karna orang yang syudah cantik, ga perlu dandan heboh utk membuatnya terlihat cantik.. dengan makeup yang simple gitu aja sudah mempesona?????? bikin hamish klepek2",
+    "sentimen": "positif"
+  },
+  {
+    "id": 659,
+    "kalimat": "Bagus dong.. mencari ilmu kapanpun dimanapun.. itu karena suaminya orang berpendidikan ????????????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 660,
+    "kalimat": "Sukak cewe cantik dan kmauan blajarnya tinggi ???",
+    "sentimen": "positif"
+  },
+  {
+    "id": 661,
+    "kalimat": "Yaampun ini artis bener bener good attitude yang layak jadi panutan. Dia kan bisa aja kuliah di luar negri. Tp karna baktinya sama suami , dia pilih kuliah di wilayah dekat suaminya . Salut banget",
+    "sentimen": "positif"
+  },
+  {
+    "id": 662,
+    "kalimat": "Semangat batman  <USERNAME> kita VA selalu support lu karna setiap manusia pasti pernah punya kesalahan ???????? ,, dan buat yang lain tolong jangan di bahas lagi pliis karna itu udah 2 tahun yang lalu ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 663,
+    "kalimat": "<USERNAME> y udh .salam knl y mbk seneng bisa knl sm mbk. Sbagai manusia kita saling ingetin.y sbagai manusia kita hrs tau diri jgn sombong yg digedein mentang2 dah jd artis haha..y udh mbk kita cabut ja y dri komen d foto ni nnt kita jd korban dy sel",
+    "sentimen": "positif"
+  },
+  {
+    "id": 664,
+    "kalimat": "keren yaaa, kesederhanaannya terpancar jelas. sukak sm keluarga presiden ini??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 665,
+    "kalimat": "Seorang presiden tanpa embel\" gelar .. bangga sekali",
+    "sentimen": "positif"
+  },
+  {
+    "id": 666,
+    "kalimat": "Proud of you Indonesia. God bless Indonesia",
+    "sentimen": "positif"
+  },
+  {
+    "id": 667,
+    "kalimat": "Amazing bngt Miss National Costume. Kereenn!! Bangga ama budaya indonesia ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 668,
+    "kalimat": "Ikut bangga pastinya ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 669,
+    "kalimat": "PROUD OF YOU KAK DEA. Sangat patut dibanggakan??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 670,
+    "kalimat": "Suka bgt sm pidatox dy cara pembawaanx bgtu elegan n brwibawah pntas mmg dy mdptkan.salut",
+    "sentimen": "positif"
+  },
+  {
+    "id": 671,
+    "kalimat": "aku percaya kak niki orangnya jujur semangat kak niki???? hebat",
+    "sentimen": "positif"
+  },
+  {
+    "id": 672,
+    "kalimat": "<USERNAME>.m sama Mba! Gua jg ga bisa benci Nikmir. Salut malah ama dia ga muna! Artis lain maaf image aja di dpan, sok baik, sok teraniaya n jual air mata. Nikita ini real.. sygnya msyarakat kita cendrung yg dilihat apa yg ada di superfisial",
+    "sentimen": "positif"
+  },
+  {
+    "id": 673,
+    "kalimat": "cantik alami tanpa perlu bedak tebel dan gaya bak tante2",
+    "sentimen": "positif"
+  },
+  {
+    "id": 674,
+    "kalimat": "Cantik dan gagah mudahan lancar dampe hari h",
+    "sentimen": "positif"
+  },
+  {
+    "id": 675,
+    "kalimat": "Cantik yang ini dong,penampilannya dewasa yang sesuai. Mukanya cantik Indonesia,classy. Ayu ayu gimana gitu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 676,
+    "kalimat": "Lcb cantikk sangat??, lcb beruntung dapet duren dan duren pun beuntung dpt neng lcb. Sakina mawaddah warahmah Amin",
+    "sentimen": "positif"
+  },
+  {
+    "id": 677,
+    "kalimat": "dia ganteng tidak hanya saat berseragam, tapi ganteng saat menjadi panutan keluarganya.. semoga anak saya memiliki fisik yang elok macam mahluk Allah ni",
+    "sentimen": "positif"
+  },
+  {
+    "id": 678,
+    "kalimat": "Beruntung banget deh mba  <USERNAME> dapet mas  <USERNAME>. Ganteng,baik,sholeh,sayang keluarga.ini suami idaman banget.semoga selalu menjadi keluarga yang SAMAWA",
+    "sentimen": "positif"
+  },
+  {
+    "id": 679,
+    "kalimat": "Smoga mas Agus menjadi pemimpin di masa akan datang.salah satu pemimpin yg sukses adalah dia sukses dlm memimpin dlm rumah tangga",
+    "sentimen": "positif"
+  },
+  {
+    "id": 680,
+    "kalimat": "Dear...Bpk  <USERNAME> cra berpakain bpk sangat lah mencerminkan kepribadian bpk yg sngt lembut tpi tetap gagah semoga bpk  <USERNAME>&kel selalu dlm lindungan allah swt, salam hormat dri saya yg selalu mengagumi bpk :-)",
+    "sentimen": "positif"
+  },
+  {
+    "id": 681,
+    "kalimat": "Sukses terus kak ayu dan semoga selalu senantiasa dalam naungan Allah SWT, dan sehat selalu amin...",
+    "sentimen": "positif"
+  },
+  {
+    "id": 682,
+    "kalimat": "Smg selalu di berikan kesehatan dan panjang umur yah nek ,muda banget cantik dan MashaAllahhh",
+    "sentimen": "positif"
+  },
+  {
+    "id": 683,
+    "kalimat": "Terimakasih Ibu  <USERNAME> serta seluruh keluarga telah memilih Plataran Darmawangsa sebagai tempat acara keluarga Besar. Saya selaku bagian staff di Plataran darmawangsa sangat terkesan dan sangat menunggu kedatangan Ibu dan keluarga di lain waktu. Sehat selalu Ibu dan keluarga. Amin amin ya rabbi",
+    "sentimen": "positif"
+  },
+  {
+    "id": 684,
+    "kalimat": "Salam Dirgantara! Terima kasih telah mendukung dan menyebarkan awareness terkait program pesawat R80. Semoga momen emas ini menjadi titik awal kebangkitan industri pesawat terbang Indonesia agar kembali berjaya. Bersama Eyang Habibie, yuk kita satukan langkah terbangkan pesawat R80. Caranya? Langsung klik link di bio kami yaaa ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 685,
+    "kalimat": "Semangat ya eyang habibie, sehat selalu, selalu dlm lindungan Allah, ambisinya selalu kuat dlm melakukan segala hal. Kereeeennnnn. Semoga bnyk penurus2 bangsa sprti eyang Habibie ????????????????????????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 686,
+    "kalimat": "Memiliki Cucu2 merupakan kebahagian yg tak ternilai, cucu sbg generasi penerus bangsa...",
+    "sentimen": "positif"
+  },
+  {
+    "id": 687,
+    "kalimat": "Wahhh Kerenn..... dan saat ini tempatnya semakin bagus Ibu. Kapan kapan Bernostalgia di sana lagi bersmaa keluarga ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 688,
+    "kalimat": "Cantik dan ganteng-ganteng. Sehat selalu untuk mereka dan Bu Ani Sekeluarga ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 689,
+    "kalimat": "Barakallah dengan cucu2 yg cantik dan ganteng ... semoga menjadi anak yg sholeh dan sholeha ... menjadi kebanggaan kelg...????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 690,
+    "kalimat": "Bu  <USERNAME>...cucu bikin hati kita gembira...ngangeni...kadang kangen sama keceriaan mereka...salam kangen buat cucu2 tercinta",
+    "sentimen": "positif"
+  },
+  {
+    "id": 691,
+    "kalimat": "Yang kecil lucu, yang tengah ganteng parah, yang gede pinternya ga ketulungan, salam hormat saya bu, pak",
+    "sentimen": "positif"
+  },
+  {
+    "id": 692,
+    "kalimat": "Terima kasih pak SBY & ibu Ani yg selalu menemani beliau..& sudah memberikan Kontribusinya yg sangat Luar biasa kepada Indonesia selama 10 tahun memimpin..semoga selalu bahagia & sehat selalu..amin",
+    "sentimen": "positif"
+  },
+  {
+    "id": 693,
+    "kalimat": "Setiap caption yang di buat ibu..dan setiap kali saya membaca captionnya secara tidak langsung saya belajar bahasa Inggris ... Terima kasih ibu... Secara personal saya tdk mengenal ibu Anie tp saya yakin betapa bangganya Anak Cucumu bisa lu didik ibu menjadi generasi bangsa yang mandiri dan unggul ... Sehat terus ibu .. Semoga Cinta Kasih dalam Keluarga selalu engkau tebarkan untuk mereka ...",
+    "sentimen": "positif"
+  },
+  {
+    "id": 694,
+    "kalimat": "Assalamualaikum ibu yang terhormat. salam dari kami sekeluarga di banda Aceh. kami semua sangat membanggakan keluarga ibu yang sangat membahagiakan kami bila melihat nya. sikap etika perilaku keluarga ibu sungguh sangat bijaksana apalagi mas agus, ibu.. suami saya terlebih lagi sangat yakin pada saat bapak mencalonkan diri jadi presiden dulu beliau sangat bangga pada bapak salam hangat dan perkenalan dari keluarga kami ya bu (Darmanto Rapi photo studio)",
+    "sentimen": "positif"
+  },
+  {
+    "id": 695,
+    "kalimat": "senang liat ibu n bpk sby menikmati hari tua brsama cucu tercinta ,, sehat trs ya memo n pepo ,,, Allah SWT melindungi memo n pepo n kel #kisss",
+    "sentimen": "positif"
+  },
+  {
+    "id": 696,
+    "kalimat": "Semangat mebangun indonesia yg lebih maju pak jokowi ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 697,
+    "kalimat": "Artis berkualitas, wajahnya itulohhh berkualitas bgt hihi.. Cantik bangetsss.. Top deh.. Ga pake drama dan gimick idupnya hihi.. Tajir tp. Sederhana",
+    "sentimen": "positif"
+  },
+  {
+    "id": 698,
+    "kalimat": "Mba via sptnya siyok melihat kejamnya dunia per artis an... mudah2an tetep sabar tetep berkarya dg baik... ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 699,
+    "kalimat": "Selalu suka sama via,org nya jujur apa adanya kaga gimmick2an hidupnya..hitam ya hitam,putih ya putih..kl ngomong blak2an,kl ngga suka dy ngomong jd ga pura2(gw banget sih),apa adanya ga munafik..sprti ajaran ortu gw..jangan suka memberi senyum kepalsuan????ga kaya artis yg onoh noh yg mulutnya lebar kya gorong2,tukang ngibul,munfik bgt kl ditanya wartawan jg jawabnya,perilaku ama omongan ga balance????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 700,
+    "kalimat": "Go a head Via...... Cuekin ajalah, udah biasa itu dalam pergaulan dunia kerja dan masyarakat biasa, apalagi pergaulan ertong. Pastilah ada yg gatel bin sirik klo liat orang sukses, anggep aja kuman gak usah dibikin status, malah kesenengan mereka ada bahan buat ngetawain. Betul nggak?? ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 701,
+    "kalimat": "Gagah kali abang borisq ini.. Klo gk bc nmx bner2 gk ngeh klo it bang boris...??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 702,
+    "kalimat": "Weewww bangga kali ak liatnya bang  <USERNAME> pake baju adat karo.... Syip",
+    "sentimen": "positif"
+  },
+  {
+    "id": 703,
+    "kalimat": "Bagus banget baju dan pengantinya happy weding",
+    "sentimen": "positif"
+  },
+  {
+    "id": 704,
+    "kalimat": "MasyaAllah . bagus banget ..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 705,
+    "kalimat": "Gileee suaraaanyaa.. kereen parah.. sukak",
+    "sentimen": "positif"
+  },
+  {
+    "id": 706,
+    "kalimat": "Lebih keren dr penyanyi aslinya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 707,
+    "kalimat": "Kereeeeeeeeeeeeeeennn sampe merinding brrrrr",
+    "sentimen": "positif"
+  },
+  {
+    "id": 708,
+    "kalimat": "Yatuhan suaranyaaaaaaa bagus bangetttttttt",
+    "sentimen": "positif"
+  },
+  {
+    "id": 709,
+    "kalimat": "Keren suaranya super merdu. Coba ikut audisi nyanyi, pasti bakatnya bs tersalurkan",
+    "sentimen": "positif"
+  },
+  {
+    "id": 710,
+    "kalimat": "Bagus drpd beberapa artis yg modal tampang doang pdhl suara juga jelek. Mendingan mas ini yg nyanyi. Emg dasar nasib org yak gk ada yg tau. Semoga masnya bisa sukses",
+    "sentimen": "positif"
+  },
+  {
+    "id": 711,
+    "kalimat": "Dgrin ini sampe bulu kuduk naik saking bgusnya, masyaallah apik bgt suaranya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 712,
+    "kalimat": "Subhanallah tergetar hati dengar suara nya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 713,
+    "kalimat": "Masa allah suaranya bagus banget cantik lagi orangnya idaman semua cowo",
+    "sentimen": "positif"
+  },
+  {
+    "id": 714,
+    "kalimat": "Bagusss suaranya, penampilannya juga sesuai anak sekolahan, natural dan sesuai dengan usia nya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 715,
+    "kalimat": "Kerennnn suaranya bagus",
+    "sentimen": "positif"
+  },
+  {
+    "id": 716,
+    "kalimat": "Cantik, polos, apa adanya tapi keliatan berbakat. Semoga kalau udah tenar gek jadi selebgram, kalian ga kaya2 si mba Novilda ya dek yg kehilangan arah. Tetaplah begini,jangan cepat tumbuh dewasa dan terus asahlah bakat kalian, Allah bless you both.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 717,
+    "kalimat": "Bagus iniii, ga kaya yg pingin terkenal, rambut di alus2in dlu. Muka di makeup dl. Biar dikamera keren hahaha. Kl mereka bnr bnr keliatan lg lelahnya abis pulang sekolah ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 718,
+    "kalimat": "Di ulang berkali kali sampet gak percaya klo ini suara aslinya. Bagus bgt ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 719,
+    "kalimat": "Alhamdulillah masih ada kidz zaman niw yg berkarya sewajar seumurannya bukan yg sok gede",
+    "sentimen": "positif"
+  },
+  {
+    "id": 720,
+    "kalimat": "aduhh kerennnn suaranya enak . nge jazz2 gimanaa gtu . muka mah belakangan aja . ntr klo udh tenar juga muka mengikuti hahahahahaha . skill dlu nomer 1 . ini batu abege jaman now ????????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 721,
+    "kalimat": "Kereeen nih...enak bgt didengernya...gak bosen puter ulang2...daripada yg lipsing2 gajelas joget2 gtu...",
+    "sentimen": "positif"
+  },
+  {
+    "id": 722,
+    "kalimat": "waduuhhh...Kereeen bangeeet dedek2 emeesh",
+    "sentimen": "positif"
+  },
+  {
+    "id": 723,
+    "kalimat": "Klo aku sih yes bingits...coba ya seandaix anak2 buat video sprt gini atau video kreativ lainnya kan bagus dripda buat video mesum..atau ngelem dll yg berbau negativ bikin dosa dan maluin ortu dan diri sendiri",
+    "sentimen": "positif"
+  },
+  {
+    "id": 724,
+    "kalimat": "Bagussss + dandannya natural ga banyak permak kayak anak jaman now lainnya ????????????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 725,
+    "kalimat": "Kereeeeennnn padahal nyanyinya santai banget ????????????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 726,
+    "kalimat": "Polossss...keren....ga neko2 kayaknya...jossss",
+    "sentimen": "positif"
+  },
+  {
+    "id": 727,
+    "kalimat": "Yesssssss !!!!! Bagus bgt !!! ?????? Kids jaman now yg begini yg diksh jempolllll ????????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 728,
+    "kalimat": "Wajah2 anak skul bgt yaakk mase alami bgt suka liatnya ???? lagu ma suara keren palg yg pake bando suaranya mantap ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 729,
+    "kalimat": "Keren suaranya dasarnya cantik tinggal di poles dikit bersinar??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 730,
+    "kalimat": "Pembagian suaranya pas bnget,pecah suaranya jg cakep",
+    "sentimen": "positif"
+  },
+  {
+    "id": 731,
+    "kalimat": "keren bgt suaranya.tinggal dipermak aja biar tmbh cantik.viralkann....",
+    "sentimen": "positif"
+  },
+  {
+    "id": 732,
+    "kalimat": "Kereeeennnnnn... suaranyaaahh okkeehh ketjeeehh badaaiik ughllaaaallaa..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 733,
+    "kalimat": "Yes yes yes..kirain lypsinc habisnya mirip sih suaranya,eh pas dua2nya nyanyi bareng baru ngeh asli..kereennn",
+    "sentimen": "positif"
+  },
+  {
+    "id": 734,
+    "kalimat": "Keren yg penting punya bakat dulu ntar jg klo udah jd artis banyak duit mukanya bisa cemerlang",
+    "sentimen": "positif"
+  },
+  {
+    "id": 735,
+    "kalimat": "Keren min orang2 yg berbakat kaya gini yg harus di up ke publik????????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 736,
+    "kalimat": "Kereeen bgt suaranya. Nah kyk gini dong kids jaman now...??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 737,
+    "kalimat": "mrinding... bagus poll... d jaga ya dek kepolosannya... ???? jng smpek kyk si aw2 dkk.. ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 738,
+    "kalimat": "Kereenn sumpaah,, kebangetan bagusnya..??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 739,
+    "kalimat": "Ya ampun lakikny ganteng. Rini nya juga cantik. Mungil pula skrg.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 740,
+    "kalimat": "Suaminya swett... keliatannya syg bgt ma istrinya, ganteng lagi... Haaaaaaa ?? so swett lah... Smg langgeng slluÖ",
+    "sentimen": "positif"
+  },
+  {
+    "id": 741,
+    "kalimat": "Wah Mbak Rini hamil ya ?? Selamat ya mbak semoga kandungannya sehat\" aja & juga mbak rininya , makin bahagia di hamil yang pertama , dan semoga lancar di proses persalinannya nanti ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 742,
+    "kalimat": "Kasian anaknya,, jgn sampek anaknya rusak jugak kek emaknya yaa",
+    "sentimen": "positif"
+  },
+  {
+    "id": 743,
+    "kalimat": "Kalo pasangan cantik + ganteng suka deh liatnya?",
+    "sentimen": "positif"
+  },
+  {
+    "id": 744,
+    "kalimat": "Wah akhirnya hamil lagi juga. Selamat ya mbak Sandra semoga kehamilannya makin sehat\" saja , makin fit dan semoga lancar di prosesi persalinannya nanti. Wah udah jadi calon ibu nih",
+    "sentimen": "positif"
+  },
+  {
+    "id": 745,
+    "kalimat": "ikutan happy....sukakkk bgt sm nih couple...salah satu pasangan sempurna menurut gw",
+    "sentimen": "positif"
+  },
+  {
+    "id": 746,
+    "kalimat": "Pernah lihat di infotainment sebelum nikah, wkt ditanya persiapannya jelang pernikahan, sandra dewi bilang klo dia sama calon suaminya pengen banget cepat punya anak nanti hbs menikah, krn mereka suka anak kecil, bahkan mereka sdh prepare program2 yg akan mereka lakukan klo dlm wkt dekat blm dikasih anak, but finally...congrats...semoga lancar dan sehat trs sampe lahiran ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 747,
+    "kalimat": "Keluarga ter-humble ter-sempurna ter-sederhana dan engga pernah sok terlihat kaya dan ga pnah manja pake pesawat jet pribadi kayak yg lain lain ??????????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 748,
+    "kalimat": "Bunda maia cantik semoga slalu sukses, sehat trs ya cantik wajahnya secantik hatinya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 749,
+    "kalimat": "Artis yg gue kaguminn.. Nikah muda, ga neko2, syg keluarga syg suami,, mengutamakan anak2.. Ga puyeng ama dunia hiburan dan ke artisann.. Padahal tajirrr mampuss.. Plus ga alayy dan ga aneh2.. Salutt ama niaa.. Smiga slalu samawa.. Yaa nia and famzz???????????????????????????????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 750,
+    "kalimat": "<USERNAME> iya aku sih jujur bukan fans Nia, biasa aja sama dia, pas dia tenar banget sama sinteronnya juga aku biasa aja. Tapi makin ke sini kalau soal urusan keluarga, aku salut ama dia. Dia kan masih muda ya itungannya, sama aku cuma beda 2-3 t",
+    "sentimen": "positif"
+  },
+  {
+    "id": 751,
+    "kalimat": "Smnjk hbs nikah auranya keluarr bgt. Suaminya jg kliatan syg dan nia nya kliatan baik gt tulusss.. sukak deh liatnya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 752,
+    "kalimat": "Mngkin s mba nya marah2 krna ad kata2 yg ga enk dr yg komen..wajar lah kl dia marah..toh it kan cuma foto biasa aj.. Ko jadi malah mba nya yg d bully..sampe bawa2 fisik sgala.. Kan ga bgus.. Pinter2 lah kita mnyikapi medsos.. ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 753,
+    "kalimat": "Cantik banget yak.. Punya anak cewe begini puyeng kali yak jagain nya ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 754,
+    "kalimat": "<USERNAME> iya betul mba. Ariel gak ganteng. Tapi ariel punya kharisma yg menarik. Udah tua pun skrang agak keriput wajahnya ttp aja kharisma nya sebagai lelaki keliatan lebih terpancar. Buktinya mama, dan tante saya makin tergila2 sama ariel dan sa",
+    "sentimen": "positif"
+  },
+  {
+    "id": 755,
+    "kalimat": "Jadi manusia Saling menghargailah, kalo tulisan yg ditulis itu tidak berguna bahkan menyakiti hati orang lain. Ya sebaiknya tidak usah tulis. Pergunakan sosmed dengan smart ya guys!!",
+    "sentimen": "positif"
+  },
+  {
+    "id": 756,
+    "kalimat": "entah kenapa kalo liat  <USERNAME> bergaya apapun ttp kliatan bagus... suka sama lgu nya.. sukses trus kak",
+    "sentimen": "positif"
+  },
+  {
+    "id": 757,
+    "kalimat": "banyak bangat emasnya.jadi salpok diemasnya.tp sumpah lagunya dan music nya keren bngat.apalagi konsep mv nya ia ambil handel.kan keren menurut saya.kalo denada taro kutang diluar itu krn masih minim perestasi.tp kalo agnes itu hal wajar.prestasi dan dunia fashion kalo artis indonesia ia selalu unggul.krn ia berani meski gak cocok ia pake",
+    "sentimen": "positif"
+  },
+  {
+    "id": 758,
+    "kalimat": "Coba deh yang pada kritik2 itu bikin karya sendiri, siapa tau lebih bagus dari yang mereka kritik",
+    "sentimen": "positif"
+  },
+  {
+    "id": 759,
+    "kalimat": "Pada protes kenapa sih??yang protes itu coba usaha deh..Jangan kira usaha dia pendek ya!!.Butuh waktu lama dia agar bisa go international.Jangan cuma protes,klau pengen yang kalian inginkan ya kaliam sendiri dengan cara sendiri agar kalian bisa go international",
+    "sentimen": "positif"
+  },
+  {
+    "id": 760,
+    "kalimat": "Keren, ga suka ma agnes, tp suka ma lagu ini, n jd suka jg ma y nyanyi, santai lagunya tp asyik",
+    "sentimen": "positif"
+  },
+  {
+    "id": 761,
+    "kalimat": "Bandingin lagu Go Internasional yang paling ngena di gue ini seru enak didenger....... Tapi tumben agnes gak memberikan bumbu Indonesianya kaya ada Batik\" gtu atau apa..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 762,
+    "kalimat": "Nah ini baru keren, daripada mba mba superman wkwkwk",
+    "sentimen": "positif"
+  },
+  {
+    "id": 763,
+    "kalimat": "Sumpah gua suka bgt sama lagu dia yg ini, asik bgt di dengernyaa",
+    "sentimen": "positif"
+  },
+  {
+    "id": 764,
+    "kalimat": "Enak banget mak lagu2 dialbumnya paling suka yg inih sm beautiful mistake",
+    "sentimen": "positif"
+  },
+  {
+    "id": 765,
+    "kalimat": "Mantap .gw suka bngt ama agnes.karena dy artis yg bertalenta .dan ke kayaan dy ga pernah dipamer ky artis ygblain.gw suka dy ga pernah pamer.keren bngt",
+    "sentimen": "positif"
+  },
+  {
+    "id": 766,
+    "kalimat": "enakk musik nyaa . apa lagii lhatt ka agnes nyaa dance kaya nyaa nyamaann dan enakk bgt tuh kayaa nyaa",
+    "sentimen": "positif"
+  },
+  {
+    "id": 767,
+    "kalimat": "Asik bgts dancenya,apa lg lagunya mancappppp",
+    "sentimen": "positif"
+  },
+  {
+    "id": 768,
+    "kalimat": "Ganteng banget meski aura... Kenceng banget & diragukan.semoga langgeng mami..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 769,
+    "kalimat": "Mami depe cantik banget. Awet muda, ngga kalah sm penyanyi pendatang baru. Semoga samawa...  <USERNAME>",
+    "sentimen": "positif"
+  },
+  {
+    "id": 770,
+    "kalimat": "Ganteng yesss. Mami cuco deh sama babang. Semoga langgeng ya unchhh lope mami",
+    "sentimen": "positif"
+  },
+  {
+    "id": 771,
+    "kalimat": "Mbak dewi jadi lebih sabar keliahatannya... Keren semoga semakin langgeng",
+    "sentimen": "positif"
+  },
+  {
+    "id": 772,
+    "kalimat": "Soal pasangan hidup ijk salut sih sama mami depe.. ga matre n neko2.. yg penting single n cocok doi mau diajak merit.. ga kyk tetangga sblh saking matrenya suami org di embat jg..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 773,
+    "kalimat": "mau duda mau singgel itu ngak masalah yg penting laki jaman sekarang setia menemani dunia akhirat amin good luck dewi persil sehat slalu dlm berkarya",
+    "sentimen": "positif"
+  },
+  {
+    "id": 774,
+    "kalimat": "Muantepp ganteng...selamat menempuh hidup baru mg langgeng rumah tanggax bhagia n selladem ayem...??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 775,
+    "kalimat": "Mb depe langgeng yo karo masny.mb ibuku ngefans bgt sm mb depe dri mb sm mas saiful dlu smpe2 blng jdi pembntuny gapapala ktny,pgn bgt ktmu mb depe ibuku kami dijambi mb",
+    "sentimen": "positif"
+  },
+  {
+    "id": 776,
+    "kalimat": "Jangan di dengar kata 2 yg menyakitkan hati lebih baik tenang jalanin aja dengan pilihan andah sendiri bahagia itu biasanya ada di kata hatimu maju trus dan sukses bersama pasangan mu",
+    "sentimen": "positif"
+  },
+  {
+    "id": 777,
+    "kalimat": "Cakep,ganteng pacarnya dewi persik,udah ini aja jgn ganti lg yaa dewi",
+    "sentimen": "positif"
+  },
+  {
+    "id": 778,
+    "kalimat": "Beruntungnya Bella.. Orang2 jadi fokus ama komen lakinya. Coba kalo ngga, pasti model bajunya yang diceramahin ama netizen ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 779,
+    "kalimat": "Beginilah pasangan suami istri yg normal.. Romantisme hanya dia dan istri yg tau. Ga perlu diumbar.. Tp dijaga. Yg suka umbar kemesraan iti kebanyakan menutupi kenyataan yg sebenarnya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 780,
+    "kalimat": "Naksir Ama ceweknya, kyanya lembut banget Kya bolu ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 781,
+    "kalimat": "Cewex luar biasa cntik... Cowox.. Mmmmhh hehe",
+    "sentimen": "positif"
+  },
+  {
+    "id": 782,
+    "kalimat": "Cewenya cantikk, the power of tajir ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 783,
+    "kalimat": "Alhamdulillah lebih ganteng babang Emran ya  <USERNAME> ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 784,
+    "kalimat": "Alhamdulillah  <USERNAME> gak jadi sama yg ini... engku emran masyaallah ganteng, anteng, sabar, sholeh, penyanyang, senyumnya cute.. baper dech",
+    "sentimen": "positif"
+  },
+  {
+    "id": 785,
+    "kalimat": "Cantik manis cewe nya .. cocok ajalah",
+    "sentimen": "positif"
+  },
+  {
+    "id": 786,
+    "kalimat": "Cewenya manis, cakepan yg skrg Dr yg kmrn ga jd.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 787,
+    "kalimat": "yg ini lbh cantik sih. hebat jg ni lakik ciwik nya cakep2 lho..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 788,
+    "kalimat": "Semoga betul klo sma yg ini mh....klo bella mh udah dapet yg amat sangat pas lah????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 789,
+    "kalimat": "Semoga ga putus lagi ya. Ka bella udah bahagia banget tuh, ga malu??? ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 790,
+    "kalimat": "Yaampun cantiikk bangett aslii! Angguunn ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 791,
+    "kalimat": "<USERNAME> euum setuju sekaliii emang cantikan ini dari pada yang sebelumnya. Lebih WOW... ?? terbaik ?? terpelihara hehe",
+    "sentimen": "positif"
+  },
+  {
+    "id": 792,
+    "kalimat": "Cantiik, senyumnya mirip Maudy Kusnaedi",
+    "sentimen": "positif"
+  },
+  {
+    "id": 793,
+    "kalimat": "Dari kisah jevin radhini rini gue jd belajar 1 hal. \"Kalau memang jodohmu, maka akan ada saja jalanNya\". Gue kebetulan ngikutin dr awal. Gue nonton pas live the remix jevin ngomong 'itu pacar saya nonton' sambil nunjuk radhini. Gue jg nntn pas jevin meluk radhini erat bgt di backstage stlh lolos ke final. Keliatan jevin ini anaknya gentle, tulus dan penyayang. Tapi Allah maha pembolak-balik hati. Mei '15 jevin radhini pcrn, sept '15 jevin rini dipasangin the remix, Des '15 final the remix, jan '16 jevin radhini putus, feb '16 jevin rini pcrn, april '16 jevin ngelamar rini, feb '17 jevin rini tunangan, mei '17 jevin rini nikah. Allah works in many ways??. Allah's plan is better than our plan. Jevin yg dulunya berfikiran akan nikah umur 30, siapa sangka di umur 25 dan dlm waktu pcrn baru 2 bulan udah yakin ngajakin anak orang nikah. Ah, happy wedding soundwave. Bahagia selalu??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 794,
+    "kalimat": "Kalau kita bisa mengartikan jodoh,ini lah yang di bilang jodoh.cantik lahir batin tapi kl ga jodoh perpisahanlah yang terbaik..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 795,
+    "kalimat": "Pingkan ni suaranya enak banget.. bindeng2 gimana gt.. berciri khas.. ibarat gw merem denger suaranya gw udh langsung tauk",
+    "sentimen": "positif"
+  },
+  {
+    "id": 796,
+    "kalimat": "Hatinya terbuat dari apa ya .. Mbaa gigi yang berhati luarbiasanya ajah sampe di benci .. Cobaa sebutin heternya mbaa kesalahan apa yang mba gigi lakukan :'( duhh aku ajah jadi sukak sama sifatnyaaaaaaaaaaa",
+    "sentimen": "positif"
+  },
+  {
+    "id": 797,
+    "kalimat": "Suka banget banget nih sama ni artis, gak neko neko, ternyata masih lahiran 1996 ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 798,
+    "kalimat": "alhamdulillahhh... ada juga yang ngepost ayangnya Ibel.... biarin deh damai seisi dunia.... masing2 sdh punya pasangan, jadi engga ada lg yang bilang Ibel PHO.... Happy b\"day Ibel",
+    "sentimen": "positif"
+  },
+  {
+    "id": 799,
+    "kalimat": "Ini kakaknya murid2ku waktu msh ngajar di sekolah internasional mihil. Anaknya cantik2 dan si ibu dan bpk ramah dan baik bngt. Seluruh sepupunya di sekolah yg sama, yg uang masuknya aja 70 jtan lbh/siswa. G tau skrg brp.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 800,
+    "kalimat": "<USERNAME> justru karena ka bella sholehah, punya penghasilan sendiri, dan cantik jadi Allah mau kasih jodoh yang lebih baik lagi..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 801,
+    "kalimat": "Mbak bela, nikahnya berdasarkan atas dasar agama mbak yg diutamakan ya. Biar laki2nya dpt yg baik. Saya yakin banyak laki2 yg baik dan kaya raya yg mau nikahin mbak",
+    "sentimen": "positif"
+  },
+  {
+    "id": 802,
+    "kalimat": "Duh geulis kitu ditinggal sama yg 'itu' duuuhhhh hahaha jodohnya pasti Allah kasih yg lebih baik Teeeh ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 803,
+    "kalimat": "Bu Ameeel.... udah lama ga ke bank,kangen bu Amel yg cantik,ramah,baik ama kangen tentengannya hihiii ????. Nanya si mba bu Amelnya pindah rumah dan lg hamil. Sehat2 yaa bu Amel,salam buat Annabel",
+    "sentimen": "positif"
+  },
+  {
+    "id": 804,
+    "kalimat": "Ambil positifnya aja mbak toh oma nani yang menjalankan, mau mbak bilang gimana nggak mungkin kan oma langsung cerai karena itu udah pilihan hidup dia gimana jadi lebih baik didoakan semoga langgeng karena menikah juga ibadah heheu  <USERNAME>",
+    "sentimen": "positif"
+  },
+  {
+    "id": 805,
+    "kalimat": "Alesha arti namanya : Yang dilindungi Allah....aamiin yra, ya nak....",
+    "sentimen": "positif"
+  },
+  {
+    "id": 806,
+    "kalimat": "Semoga anak nya bsok pas bangun langsung jd dewasa biar bisa bakal jodoh saya???? pasti gedenya ntar sama cakep kek kakaknya Fahri..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 807,
+    "kalimat": "min mnta doanya jg buat saya mudahan dilancarkan dan selamat saat melahirkan bulan mei ini. Aamiin",
+    "sentimen": "positif"
+  },
+  {
+    "id": 808,
+    "kalimat": "Waaah.... Hamil Malah makin cantik, cew kali yeee debay nya.... ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 809,
+    "kalimat": "mba acha cantik banget banget banget !! buat calon ibu yg blm d kasih momongan sm Allah smoga di segerakan ya ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 810,
+    "kalimat": "Gemulai'nya Momo,, Bak Putri keraton Jawa,,, semoga bersatu selama'nya dan cuma Maut yg memisah'kan,, Gbu...",
+    "sentimen": "positif"
+  },
+  {
+    "id": 811,
+    "kalimat": "Berasa kaya mau manggung kk  <USERNAME> ?? semoga lancar dan cepat punya momongan biar Ada Princess Kecil MoMo atau gak prince ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 812,
+    "kalimat": "waaahhh sm dokter sigit ya, ini dokter the best banget, baik banget, humble orgnya, recomend banget buat yg mau program dan kehamilan ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 813,
+    "kalimat": "Ashanti bunda the best, Slalu belain/support anaknya. Mskipun bkn ank kndung??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 814,
+    "kalimat": "Smua orng berhak untuk melakukan apapun yg mereka suka.. Asal g mrugikan dirinya ataupun ornglain.. Mau aurel dandan berlebihan atau natural itu hak dia.. Apalagi aurel pinter banget dandannya.. Kliatan cantiiik banget.. ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 815,
+    "kalimat": "Beruntung si aurel dpt ibu sambung kaya ashanti .  <USERNAME>",
+    "sentimen": "positif"
+  },
+  {
+    "id": 816,
+    "kalimat": "salut ma bunda  <USERNAME> .. mskipun ibu sambung.. tpi sellu jdi org yg plingbdpan mmbela aurel n azriel dri pra hatters..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 817,
+    "kalimat": "Keren ya ashanty segitu sayangnya sama anak nya(padahal bukan anak kandung), yang ibu kandung aja blm tentu begitu. Ini orang hatinya kek bidadari di tv tv. Beruntung banget itu aurel azriel punya ibu tiri macam dia",
+    "sentimen": "positif"
+  },
+  {
+    "id": 818,
+    "kalimat": "Salut buat Bunda  <USERNAME> slalu yg trdpan melindungi ank\"yh...mngalahin ibu kandung sndri yg cma Diam ajj...bt aurel pa yg slah pd dya jga Manusia ciptaan Allah klau pun Dya lbh sgla yh dri yg suka nyinyiir mslh pnampilan brarti dh nasib tuuh orang g bsa sprti Aurel yg lbh baek n bgs dri yg nyinyiiir..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 819,
+    "kalimat": "Ibu tiri terhebat..... Ntr palingan klo dah 20an dia baru perawatan .skrg msh muda kasian klo di paksa perawatan .cm ya paling tutup mata tutup kuping skrg mah",
+    "sentimen": "positif"
+  },
+  {
+    "id": 820,
+    "kalimat": "<USERNAME> aurel itu cantik tau. Pernah liat asli nya kok. Org sirik itu yg menjelek jelekannya. Padahal muka sendiri belum tente lebih cantik dan muda daripada aurel. aurel difoto nampak putib bilangnya suntik putih, kelihatan hitam dibilang gk bisa ra",
+    "sentimen": "positif"
+  },
+  {
+    "id": 821,
+    "kalimat": "<USERNAME> Astagfirullah... Mbak tolong ucapannya dijaga ya, ALLAH menciptakan manusia dengan sempurna, kok mbak ngomongnya kayak gitu. Aurel cantik kok, wajar manusia ada kekurangannya. Dan mbak Ashanti wajar belain anaknya, bukan caper ya mbak, sia",
+    "sentimen": "positif"
+  },
+  {
+    "id": 822,
+    "kalimat": "aurel itu perempuan hebat, ingat bgt kejadian zaman pipi mimi ny & dilihat didepan mata dia sendiri. Ga semua anak bs strong kyk dia. Yg nyinyir pasti iri krn aurel bs punya keluarga bahagia kyk skrg. Yg blg bundanya Ash lebay, mungkin blm punya anak. Hati2 sayang..km jg perempuan, nanti bakal jd ibu. Bayangin anakmu yg jd korban bully ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 823,
+    "kalimat": "Ganteng... Ini klo ga salah managernya.. semoga d lancarkan yaa..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 824,
+    "kalimat": "Mukanya mirip ,,,insya Allah jodoh dunia akhirat mbk  <USERNAME> amiiii",
+    "sentimen": "positif"
+  },
+  {
+    "id": 825,
+    "kalimat": "Cantik banggeett ya kak depe.. ???? gk keliatan loh klo dy pernah nikah.. seperti msh gadis wajah nya.. cantik ???????????? semoga lancar sampai hari H kak depe.. bahagia dunia akhirat aammiinnn ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 826,
+    "kalimat": "Dadddd :( Semoga bisa dateng yaaa & untuk papa-papa diluar sana. Semoga sehat selalu & bisa menjadi saksi anak-anaknya saat menikah. AAMIIN!????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 827,
+    "kalimat": "Semoga dilancarkan nikahnya dan ayahnya lekas ditemukan dalam keadaan sehat tanpa kurang suatu apapun :)",
+    "sentimen": "positif"
+  },
+  {
+    "id": 828,
+    "kalimat": "Semoga aja nikahannya lancar y mb. Jgn berlarut sedih kl bapak tirinya gak datang yg penting bapak kandung datang. Mungkin sj ada alasan anak kandung dari bapak tersebut melarang. Mungkin sj bapak itu udah balikan sama istri pertamanya. Dan kl sibapak datang itu berrti akan mengingatkan cerita lama. Mungkin yaa..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 829,
+    "kalimat": "Yea pak polisinya pinter hahahaha.. langsung belok, SIM nembak, gatau rambu2. Malah minta surat perintah yaelah lu pikir rumah lu mau digeledah ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 830,
+    "kalimat": "Ini mau nikah lagi baguass deh smoga kelak jd kluarga yg samawa",
+    "sentimen": "positif"
+  },
+  {
+    "id": 831,
+    "kalimat": "Lucu.... suaranya kak abbey cantik kayak orang nya.... ?????????????? terharu....",
+    "sentimen": "positif"
+  },
+  {
+    "id": 832,
+    "kalimat": "Pernah ketemu sama mba artika sari disesemall di Jakarta...ampunnn ayunee...mana semampai....murah senyummm....cakep pisan lah",
+    "sentimen": "positif"
+  },
+  {
+    "id": 833,
+    "kalimat": "Bener kata pepatah Yess, Buah Jatuh gak Jauh dari PohoN nya... Cantik Nya dapet dari Mama_Nya, Suara Bagus dan Pinter nyanyi dari darah seni Papa Nya.. #calon generasi hebat di masa depan",
+    "sentimen": "positif"
+  },
+  {
+    "id": 834,
+    "kalimat": "Bahagianya punya anak cantik berbakat, bersyukur bnr dapat titipan demikian indah",
+    "sentimen": "positif"
+  },
+  {
+    "id": 835,
+    "kalimat": "Semoga di berikan kesehatan dan rezeki yg berlimpaah pak ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 836,
+    "kalimat": "Semoga selalu sehat dan dimurahkan rejekinya ya Pak",
+    "sentimen": "positif"
+  },
+  {
+    "id": 837,
+    "kalimat": "Pria setia, pekerja keras tdk malu pilih-pilih cari nafkah sangat sedikit sekali yang banyak kebalikan..beda bgt sama seseorang yang kenal. Mentang2 ganteng, milih nganggur ketimbang jd ojol. Udh gitu istri diselingkuhin lagi. Baik kalo ada maunya ????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 838,
+    "kalimat": "Doa istri dan anak menyertaimu bang... lelaki yg bertanggung jawab itu sangat PERLU, karna kalo laki2 tanggung jawab otomatis dia akan sayang dgn anak dan istri. Beda dgn sayang yg belum tentu bertanggung jawab ??????",
+    "sentimen": "positif"
+  },
+  {
+    "id": 839,
+    "kalimat": "Ya Allah bahagia itu gak harus dgn cara yg mewah sesederhana begini aj deh bahagia bisa komunikasi dgn keluarga ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 840,
+    "kalimat": "Mereka hanya mencari rejeki utk keluarganya, kalau ada yg merasa tdk berkenan tolong jangan menggunakan kekerasan",
+    "sentimen": "positif"
+  },
+  {
+    "id": 841,
+    "kalimat": "Salut sekali Banting tulang demi menghidupi keluarga.yg duduk di bangku empuk,pakai AC Malah merampok.yg milih rakyat jelata lagi",
+    "sentimen": "positif"
+  },
+  {
+    "id": 842,
+    "kalimat": "Amin, smg selalu di lancarkan n di mudahkan rejeki nya.. jd inget waktu suami sy jg gojek dulu, srg nlp nanyain anak istri nya udah mkn atau blm.. pdhl mgkn dia sendiri entah sempet mkn atau ngga, walaupun hujan2an n panas2an tp ga penh mengeluh.. selalu menyempatkan komunikasi n ttp keep in touch di sela2 kesibukannya. Bangga n ttp berjuang y ms gojek krn anak n istri selalu mendoakan yg terbaik..",
+    "sentimen": "positif"
+  },
+  {
+    "id": 843,
+    "kalimat": "Respect dengan istri n anak2 nya yg menunggu dengan sabar dirumah insya Allah ,Allah swt selalu menjaga nya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 844,
+    "kalimat": "Laki-laki yang beneran berjuang unt anak istri, membahagiakan istri insyaallah di dunia mendapat rejeki yg ga disangka-sangka di akherat akan ada surga kelak amiin",
+    "sentimen": "positif"
+  },
+  {
+    "id": 845,
+    "kalimat": "Bangga sama suami yg selalu ingat istri disela waktunya, apapun profesimu... Kaulah juaranya. Sehat terus pak gojek, semoga lacar rejekimu. Amiiin....",
+    "sentimen": "positif"
+  },
+  {
+    "id": 846,
+    "kalimat": "Apaoun pekerjaannya yg penting halal u tuk menafkahi keluarga ... Semangat pak",
+    "sentimen": "positif"
+  },
+  {
+    "id": 847,
+    "kalimat": "Gojek itu mayoritas pegangguran yang lama gak kerja trus hampir putus asaa tapi tibatiba ada lapangan pekerjaan yang gak harus pake ijasah terakhir.. ini sungguh lapangan kerja yang sangat membantu sekali menurut saya ??",
+    "sentimen": "positif"
+  },
+  {
+    "id": 848,
+    "kalimat": "<USERNAME> aslinya cantik dan ayu loh mbak krn aku sudah bertemu langsung juga sesembaknya sangat ramah tidak sombong seperti mantan2 yg lain hhe maaf ikut nimbrung ,kalo makeup dibuat senatural mungkin krn sesembaknya memang mau menonjolkan wa",
+    "sentimen": "positif"
+  },
+
+  {
+    "id": 848,
+    "kalimat": "<USERNAME> aslinya cantik dan ayu loh mbak krn aku sudah bertemu langsung juga sesembaknya sangat ramah tidak sombong seperti mantan2 yg lain hhe maaf ikut nimbrung ,kalo makeup dibuat senatural mungkin krn sesembaknya memang mau menonjolkan wa",
+    "sentimen": "positif"
+  },
+  {
+    "id": 849,
+    "kalimat": "<USERNAME> suami saya seumuran sama saya mba, malah tuaan saya beberapa bulan tapi alhamdulillah suami saya gak kekanak kanakan hehe",
+    "sentimen": "positif"
+  },
+  {
+    "id": 849,
+    "kalimat": "lu baik banget",
+    "sentimen": "positif"
+  },
+  {
+    "id": 850,
+    "kalimat": "Hari ini cuacanya cerah sekali, membuat suasana hati jadi lebih baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 851,
+    "kalimat": "<USERNAME> memang pinter banget, semua tugas selalu selesai tepat waktu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 852,
+    "kalimat": "Makanan di restoran itu enak dan pelayanannya juga memuaskan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 853,
+    "kalimat": "Aku sangat menikmati waktu bersama teman-teman hari ini, seru banget!",
+    "sentimen": "positif"
+  },
+  {
+    "id": 854,
+    "kalimat": "<USERNAME> selalu memberikan solusi terbaik saat ada masalah, dia sangat bijaksana.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 855,
+    "kalimat": "Kopi di kafe itu rasanya mantap sekali, bikin hari makin semangat.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 856,
+    "kalimat": "Film yang tadi malam kita tonton sangat menghibur, aku suka banget.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 857,
+    "kalimat": "Pelayanan di hotel ini benar-benar luar biasa, kami merasa sangat dihargai.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 858,
+    "kalimat": "lu selalu tahu cara membuat orang merasa lebih baik, terima kasih banyak.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 859,
+    "kalimat": "Liburan kali ini sangat menyenangkan, semua rencananya berjalan lancar.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 860,
+    "kalimat": "Pemandangan di pantai itu sungguh menakjubkan, saya tidak akan melupakannya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 861,
+    "kalimat": "Terima kasih sudah membantu saya menyelesaikan proyek ini, saya sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 862,
+    "kalimat": "Anak-anak sangat senang bermain di taman hari ini, hari yang luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 863,
+    "kalimat": "Pertemuan tadi sangat produktif, banyak ide-ide baru yang muncul.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 864,
+    "kalimat": "lu memang sahabat terbaik, selalu ada di saat aku butuh.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 865,
+    "kalimat": "Masakan lu enak banget, aku selalu menantikan makan bersama di rumahmu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 866,
+    "kalimat": "Senang sekali bisa berkumpul lagi dengan keluarga besar, momen yang tak terlupakan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 867,
+    "kalimat": "Hari ini aku merasa sangat bersemangat setelah olahraga pagi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 868,
+    "kalimat": "Kerjasama tim kita sangat solid, hasilnya memuaskan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 869,
+    "kalimat": "Terima kasih atas dukunganmu, aku bisa melalui masa sulit ini dengan lebih mudah.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 870,
+    "kalimat": "Acara tadi malam sangat menyenangkan, lu benar-benar tuan rumah yang hebat.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 871,
+    "kalimat": "Senang bisa bertemu teman-teman lama, banyak cerita yang seru.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 872,
+    "kalimat": "Proyek ini selesai dengan hasil yang sangat baik, kerja keras kita terbayar.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 873,
+    "kalimat": "Aku suka sekali dengan dekorasi ruangan ini, sangat nyaman dan indah.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 874,
+    "kalimat": "Kue yang lu buat sangat lezat, aku tidak bisa berhenti memakannya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 875,
+    "kalimat": "Seminar tadi sangat inspiratif, banyak ilmu baru yang aku dapat.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 876,
+    "kalimat": "Terima kasih telah menjadi teman yang selalu mendukung, lu sangat berarti bagiku.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 877,
+    "kalimat": "Saya sangat puas dengan layanan di toko ini, pelayanannya cepat dan ramah.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 878,
+    "kalimat": "lu selalu membuat hari-hariku lebih ceria, terima kasih banyak.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 879,
+    "kalimat": "Produk ini benar-benar berkualitas, saya sangat merekomendasikannya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 880,
+    "kalimat": "Reuni kemarin sangat mengharukan, senang bisa bertemu kembali dengan teman-teman sekolah.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 881,
+    "kalimat": "Saya merasa sangat bersyukur memiliki keluarga yang selalu mendukung saya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 882,
+    "kalimat": "Liburan kali ini sangat berkesan, banyak pengalaman baru yang saya dapat.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 883,
+    "kalimat": "lu benar-benar berbakat dalam hal ini, hasil kerjamu luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 884,
+    "kalimat": "Pelayanan di rumah sakit ini sangat baik, kami merasa sangat diperhatikan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 885,
+    "kalimat": "Senang sekali bisa kembali ke kampung halaman, suasananya selalu membuat rindu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 886,
+    "kalimat": "lu adalah inspirasi bagi banyak orang, teruslah berkarya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 887,
+    "kalimat": "Hari ini sangat produktif, banyak pekerjaan yang berhasil diselesaikan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 888,
+    "kalimat": "lu selalu berhasil membuatku tersenyum, terima kasih banyak.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 889,
+    "kalimat": "Saya sangat menikmati kelas yoga pagi ini, sangat menenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 890,
+    "kalimat": "lu sangat berbakat dalam seni, lukisanmu sangat indah.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 891,
+    "kalimat": "Terima kasih telah menjadi pendengar yang baik, lu sangat memahami aku.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 892,
+    "kalimat": "Saya sangat menyukai desain baru ruangan ini, terlihat modern dan elegan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 893,
+    "kalimat": "lu adalah pemimpin yang hebat, tim kita sangat menghargaimu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 894,
+    "kalimat": "Saya sangat senang bisa bekerja di sini, suasananya sangat mendukung.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 895,
+    "kalimat": "lu selalu tahu cara membuat suasana menjadi lebih baik, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 896,
+    "kalimat": "Hasil kerja kerasmu benar-benar menginspirasi, teruslah berkarya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 897,
+    "kalimat": "Saya sangat menikmati waktu bersama keluarga hari ini, momen yang indah.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 898,
+    "kalimat": "lu benar-benar jenius, ide-idemu sangat brilian.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 899,
+    "kalimat": "Saya sangat senang dengan hasil rapat tadi, banyak keputusan penting yang diambil.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 900,
+    "kalimat": "Terima kasih telah mengajari saya banyak hal, lu adalah mentor yang hebat.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 901,
+    "kalimat": "Hari ini sangat menyenangkan, banyak hal positif yang terjadi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 902,
+    "kalimat": "lu selalu memberikan yang terbaik, kami sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 903,
+    "kalimat": "Terima kasih sudah selalu ada untukku, lu adalah teman sejati.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 904,
+    "kalimat": "Saya sangat bangga dengan pencapaianmu, lu sangat luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 905,
+    "kalimat": "lu selalu bisa membuat hari-hari menjadi lebih cerah, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 906,
+    "kalimat": "Saya sangat menghargai bantuanmu, lu sangat baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 907,
+    "kalimat": "Pertunjukan tadi sangat menghibur, saya sangat menikmatinya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 908,
+    "kalimat": "lu adalah pribadi yang sangat hangat, senang mengenalmu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 909,
+    "kalimat": "Saya sangat puas dengan produk ini, kualitasnya sangat baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 910,
+    "kalimat": "Terima kasih telah menjadi bagian dari tim, kontribusimu sangat berarti.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 911,
+    "kalimat": "Saya sangat menikmati perjalanan kali ini, pengalaman yang luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 912,
+    "kalimat": "lu selalu berhasil membuat suasana menjadi lebih hidup, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 913,
+    "kalimat": "Hari ini sangat produktif, banyak pencapaian yang diraih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 914,
+    "kalimat": "Terima kasih telah menjadi inspirasi bagi kami semua, lu sangat luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 915,
+    "kalimat": "lu selalu memberikan solusi terbaik, kami sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 916,
+    "kalimat": "Saya sangat menikmati waktu bersama denganmu, lu sangat menyenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 917,
+    "kalimat": "lu adalah teladan yang sangat baik, teruslah memberi inspirasi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 918,
+    "kalimat": "Hari ini saya belajar banyak hal baru, sangat bermanfaat.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 919,
+    "kalimat": "Saya sangat senang dengan kemajuan proyek kita, hasilnya luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 920,
+    "kalimat": "lu adalah sosok yang sangat menginspirasi, banyak yang bisa belajar darimu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 921,
+    "kalimat": "Terima kasih telah membantu saya melewati masa sulit ini, lu sangat baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 922,
+    "kalimat": "Saya sangat menyukai suasana di tempat ini, sangat nyaman dan menyenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 923,
+    "kalimat": "lu selalu tahu cara membuatku tersenyum, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 924,
+    "kalimat": "Hari ini sangat menginspirasi, banyak hal baru yang saya pelajari.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 925,
+    "kalimat": "lu adalah orang yang sangat kreatif, hasil karyamu sangat mengagumkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 926,
+    "kalimat": "Saya sangat menikmati waktu luang hari ini, sangat menyenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 927,
+    "kalimat": "lu adalah orang yang sangat baik hati, terima kasih atas segalanya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 928,
+    "kalimat": "Terima kasih telah memberikan yang terbaik, kami sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 929,
+    "kalimat": "Saya sangat bangga dengan pencapaianmu, teruslah berprestasi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 930,
+    "kalimat": "Hari ini saya merasa sangat bersemangat, banyak hal positif yang terjadi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 931,
+    "kalimat": "lu selalu berhasil membuat suasana menjadi lebih baik, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 932,
+    "kalimat": "Saya sangat puas dengan hasil kerja tim kita, kerja keras kita terbayar.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 933,
+    "kalimat": "lu adalah sosok yang sangat menyenangkan, senang bisa bekerja sama denganmu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 934,
+    "kalimat": "Saya sangat menyukai suasana di kantor ini, sangat mendukung produktivitas.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 935,
+    "kalimat": "lu selalu memberikan yang terbaik, kami sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 936,
+    "kalimat": "Terima kasih sudah selalu ada untukku, lu adalah teman sejati.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 937,
+    "kalimat": "Saya sangat senang dengan pencapaian kita, hasilnya luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 938,
+    "kalimat": "lu adalah orang yang sangat inspiratif, teruslah berkarya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 939,
+    "kalimat": "Hari ini saya merasa sangat bersyukur, banyak hal baik yang terjadi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 940,
+    "kalimat": "lu selalu bisa membuat hari-hari menjadi lebih cerah, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 941,
+    "kalimat": "Saya sangat menghargai bantuanmu, lu sangat baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 942,
+    "kalimat": "Pertunjukan tadi sangat menghibur, saya sangat menikmatinya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 943,
+    "kalimat": "lu adalah pribadi yang sangat hangat, senang mengenalmu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 944,
+    "kalimat": "Saya sangat puas dengan produk ini, kualitasnya sangat baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 945,
+    "kalimat": "Terima kasih telah menjadi bagian dari tim, kontribusimu sangat berarti.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 946,
+    "kalimat": "Saya sangat menikmati perjalanan kali ini, pengalaman yang luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 947,
+    "kalimat": "lu selalu berhasil membuat suasana menjadi lebih hidup, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 948,
+    "kalimat": "Hari ini sangat produktif, banyak pencapaian yang diraih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 949,
+    "kalimat": "Terima kasih telah menjadi inspirasi bagi kami semua, lu sangat luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 950,
+    "kalimat": "lu selalu memberikan solusi terbaik, kami sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 951,
+    "kalimat": "Saya sangat menikmati waktu bersama denganmu, lu sangat menyenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 952,
+    "kalimat": "lu adalah teladan yang sangat baik, teruslah memberi inspirasi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 953,
+    "kalimat": "Hari ini saya belajar banyak hal baru, sangat bermanfaat.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 954,
+    "kalimat": "Saya sangat senang dengan kemajuan proyek kita, hasilnya luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 955,
+    "kalimat": "lu adalah sosok yang sangat menginspirasi, banyak yang bisa belajar darimu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 956,
+    "kalimat": "Terima kasih telah membantu saya melewati masa sulit ini, lu sangat baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 957,
+    "kalimat": "Saya sangat menyukai suasana di tempat ini, sangat nyaman dan menyenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 958,
+    "kalimat": "lu selalu tahu cara membuatku tersenyum, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 959,
+    "kalimat": "Hari ini sangat menginspirasi, banyak hal baru yang saya pelajari.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 960,
+    "kalimat": "lu adalah orang yang sangat kreatif, hasil karyamu sangat mengagumkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 961,
+    "kalimat": "Saya sangat menikmati waktu luang hari ini, sangat menyenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 962,
+    "kalimat": "lu adalah orang yang sangat baik hati, terima kasih atas segalanya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 963,
+    "kalimat": "Terima kasih telah memberikan yang terbaik, kami sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 964,
+    "kalimat": "Saya sangat bangga dengan pencapaianmu, teruslah berprestasi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 965,
+    "kalimat": "Hari ini saya merasa sangat bersemangat, banyak hal positif yang terjadi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 966,
+    "kalimat": "lu selalu berhasil membuat suasana menjadi lebih baik, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 967,
+    "kalimat": "Saya sangat puas dengan hasil kerja tim kita, kerja keras kita terbayar.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 968,
+    "kalimat": "lu adalah sosok yang sangat menyenangkan, senang bisa bekerja sama denganmu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 969,
+    "kalimat": "Saya sangat menyukai suasana di kantor ini, sangat mendukung produktivitas.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 970,
+    "kalimat": "lu selalu memberikan yang terbaik, kami sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 971,
+    "kalimat": "Terima kasih sudah selalu ada untukku, lu adalah teman sejati.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 972,
+    "kalimat": "Saya sangat senang dengan pencapaian kita, hasilnya luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 973,
+    "kalimat": "lu adalah orang yang sangat inspiratif, teruslah berkarya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 974,
+    "kalimat": "Hari ini saya merasa sangat bersyukur, banyak hal baik yang terjadi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 975,
+    "kalimat": "lu selalu bisa membuat hari-hari menjadi lebih cerah, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 976,
+    "kalimat": "Saya sangat menghargai bantuanmu, lu sangat baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 977,
+    "kalimat": "Pertunjukan tadi sangat menghibur, saya sangat menikmatinya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 978,
+    "kalimat": "lu adalah pribadi yang sangat hangat, senang mengenalmu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 979,
+    "kalimat": "Saya sangat puas dengan produk ini, kualitasnya sangat baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 980,
+    "kalimat": "Terima kasih telah menjadi bagian dari tim, kontribusimu sangat berarti.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 981,
+    "kalimat": "Saya sangat menikmati perjalanan kali ini, pengalaman yang luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 982,
+    "kalimat": "lu selalu berhasil membuat suasana menjadi lebih hidup, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 983,
+    "kalimat": "Hari ini sangat produktif, banyak pencapaian yang diraih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 984,
+    "kalimat": "Terima kasih telah menjadi inspirasi bagi kami semua, lu sangat luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 985,
+    "kalimat": "lu selalu memberikan solusi terbaik, kami sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 986,
+    "kalimat": "Saya sangat menikmati waktu bersama denganmu, lu sangat menyenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 987,
+    "kalimat": "lu adalah teladan yang sangat baik, teruslah memberi inspirasi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 988,
+    "kalimat": "Hari ini saya belajar banyak hal baru, sangat bermanfaat.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 989,
+    "kalimat": "Saya sangat senang dengan kemajuan proyek kita, hasilnya luar biasa.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 990,
+    "kalimat": "lu adalah sosok yang sangat menginspirasi, banyak yang bisa belajar darimu.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 991,
+    "kalimat": "Terima kasih telah membantu saya melewati masa sulit ini, lu sangat baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 992,
+    "kalimat": "Saya sangat menyukai suasana di tempat ini, sangat nyaman dan menyenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 993,
+    "kalimat": "lu selalu tahu cara membuatku tersenyum, terima kasih.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 994,
+    "kalimat": "Hari ini sangat menginspirasi, banyak hal baru yang saya pelajari.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 995,
+    "kalimat": "lu adalah orang yang sangat kreatif, hasil karyamu sangat mengagumkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 996,
+    "kalimat": "Saya sangat menikmati waktu luang hari ini, sangat menyenangkan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 997,
+    "kalimat": "lu adalah orang yang sangat baik hati, terima kasih atas segalanya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 998,
+    "kalimat": "Terima kasih telah memberikan yang terbaik, kami sangat menghargainya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 999,
+    "kalimat": "Saya sangat bangga dengan pencapaianmu, teruslah berprestasi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1000,
+    "kalimat": "Hari ini saya merasa sangat bersemangat, banyak hal positif yang terjadi.",
+    "sentimen": "positif"
+  },
+
+  {
+    "id": 1001,
+    "kalimat": "lu tau ga sih",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1002,
+    "kalimat": "gua tau nih",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1003,
+    "kalimat": "anjing, keren banget lu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1004,
+    "kalimat": "anjing, apaan sih lu?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1005,
+    "kalimat": "gua liat anjing menggonggong tadi pagi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1006,
+    "kalimat": "anjing itu nyeremin banget!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1007,
+    "kalimat": "monyet, lu beneran hebat!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1008,
+    "kalimat": "monyet, ngapain lu di sini?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1009,
+    "kalimat": "gua liat monyet melompat dari satu pohon ke pohon lain.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1010,
+    "kalimat": "monyet itu ngeselin banget!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1011,
+    "kalimat": "babi, lu lucu banget!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1012,
+    "kalimat": "babi, ngeselin lu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1013,
+    "kalimat": "gue liat babi melompat-lompat di lumpur.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1014,
+    "kalimat": "babi itu jorok banget!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1015,
+    "kalimat": "anjing, gue kagum sama lu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1016,
+    "kalimat": "anjing, nyebelin lu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1017,
+    "kalimat": "anjing tetangga gua pintar banget, bisa buka pintu sendiri.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1018,
+    "kalimat": "anjing itu berisik banget tiap malam.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1019,
+    "kalimat": "monyet, lu beneran pinter!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1020,
+    "kalimat": "monyet, lu ngapain sih?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1021,
+    "kalimat": "gue liat monyet main di taman.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1022,
+    "kalimat": "monyet itu suka ambil barang orang.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1023,
+    "kalimat": "babi, gue suka gaya lu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1024,
+    "kalimat": "babi, malas banget lu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1025,
+    "kalimat": "gue liat babi hutan berlarian di kebun.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1026,
+    "kalimat": "babi itu bikin kekacauan di sini.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1027,
+    "kalimat": "anjing, lu beneran jago!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1028,
+    "kalimat": "anjing, ga mutu banget lu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1029,
+    "kalimat": "gue liat anjing pelacak bantu polisi tadi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1030,
+    "kalimat": "anjing itu menggigit orang.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1031,
+    "kalimat": "monyet, lu bisa diandalkan!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1032,
+    "kalimat": "monyet, lu ga guna!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1033,
+    "kalimat": "gue liat monyet kecil main bola.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1034,
+    "kalimat": "monyet itu nyolong makanan gue.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1035,
+    "kalimat": "anjing itu lari cepat banget.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1036,
+    "kalimat": "anjing tetangga suka menggonggong malam-malam.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1037,
+    "kalimat": "monyet itu lucu saat bermain.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1038,
+    "kalimat": "monyet itu mencuri pisang.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1039,
+    "kalimat": "babi hutan itu berlari sangat cepat.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1040,
+    "kalimat": "babi itu merusak tanaman di kebun.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1041,
+    "kalimat": "anjing, lu memang hebat!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1042,
+    "kalimat": "anjing, gua bener-bener kesel sama lu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1043,
+    "kalimat": "monyet itu bisa membuka kaleng.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1044,
+    "kalimat": "monyet, ga ada yang lebih nyebelin dari lu!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1045,
+    "kalimat": "babi itu pintar mencari makan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1046,
+    "kalimat": "babi, lu ga guna sama sekali!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1047,
+    "kalimat": "anjing, gua suka cara lu kerja.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1048,
+    "kalimat": "anjing itu sangat setia pada pemiliknya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1049,
+    "kalimat": "monyet, lu selalu bikin ribet!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1050,
+    "kalimat": "gue liat monyet di kebun binatang, lucu banget.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1051,
+    "kalimat": "babi itu sangat pandai berenang.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1052,
+    "kalimat": "babi itu berisik banget waktu malam.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1053,
+    "kalimat": "anjing, keren banget cara lu main bola.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1054,
+    "kalimat": "anjing, apaan sih yang lu pikirin?",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1055,
+    "kalimat": "gue liat anjing membantu orang buta menyeberang jalan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1056,
+    "kalimat": "anjing itu suka mengganggu tetangga.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1057,
+    "kalimat": "monyet, pinter juga ide lu.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1058,
+    "kalimat": "monyet itu bermain-main dengan anak-anak.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1059,
+    "kalimat": "babi, gua males banget ngurusin lu.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1060,
+    "kalimat": "gue liat babi berkubang di lumpur.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1061,
+    "kalimat": "anjing, gua ga ngerti lu sama sekali!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1062,
+    "kalimat": "anjing tetangga selalu menjaga rumah dengan baik.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1063,
+    "kalimat": "monyet, lu bikin gua kesel terus!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1064,
+    "kalimat": "gue liat monyet membantu orang tua mengambil buah.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1065,
+    "kalimat": "babi itu sangat lucu saat bermain air.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1066,
+    "kalimat": "babi itu sangat kotor dan bau.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1067,
+    "kalimat": "anjing, hebat banget cara lu nyelesain masalah.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1068,
+    "kalimat": "anjing itu selalu menyenangkan anak-anak.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1069,
+    "kalimat": "monyet, lu selalu bikin ribet!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1070,
+    "kalimat": "gue liat monyet di hutan, sangat pintar mencari makan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1071,
+    "kalimat": "babi itu pintar banget nyari makanan.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1072,
+    "kalimat": "babi itu berisik banget saat malam hari.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1073,
+    "kalimat": "anjing, keren banget cara lu nyelesain masalah.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1074,
+    "kalimat": "anjing itu sangat membantu dalam pekerjaan polisi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1075,
+    "kalimat": "monyet, lu selalu bikin masalah!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1076,
+    "kalimat": "gue liat monyet bermain di hutan, sangat lincah.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1077,
+    "kalimat": "babi itu sangat lucu saat bermain di lumpur.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1078,
+    "kalimat": "babi itu membuat rumah jadi kotor.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1079,
+    "kalimat": "anjing, lu beneran jago nyelesain masalah!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1080,
+    "kalimat": "anjing itu sangat loyal pada pemiliknya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1081,
+    "kalimat": "monyet, lu bikin gua kesel terus!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1082,
+    "kalimat": "gue liat monyet membantu orang tua mengambil barang.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1083,
+    "kalimat": "babi itu sangat lucu saat bermain di air.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1084,
+    "kalimat": "babi itu sangat kotor dan bau.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1085,
+    "kalimat": "anjing, hebat banget cara lu nyelesain tugas.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1086,
+    "kalimat": "anjing itu selalu menyenangkan anak-anak.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1087,
+    "kalimat": "monyet, lu selalu bikin ribet!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1088,
+    "kalimat": "gue liat monyet di kebun binatang, lucu banget.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1089,
+    "kalimat": "babi itu pintar berenang di sungai.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1090,
+    "kalimat": "babi itu bikin kekacauan di rumah.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1091,
+    "kalimat": "anjing, keren banget cara lu main bola.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1092,
+    "kalimat": "anjing itu sangat membantu dalam pekerjaan polisi.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1093,
+    "kalimat": "monyet, lu bikin gua kesel terus!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1094,
+    "kalimat": "gue liat monyet membantu orang tua mengambil barang.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1095,
+    "kalimat": "babi itu sangat lucu saat bermain di air.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1096,
+    "kalimat": "babi itu sangat kotor dan bau.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1097,
+    "kalimat": "anjing, hebat banget cara lu nyelesain tugas.",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1098,
+    "kalimat": "anjing itu sangat loyal pada pemiliknya.",
+    "sentimen": "positif"
+  },
+  {
+    "id": 1099,
+    "kalimat": "monyet, lu selalu bikin ribet!",
+    "sentimen": "negatif"
+  },
+  {
+    "id": 1100,
+    "kalimat": "gue liat monyet bermain di hutan, sangat lincah.",
+    "sentimen": "positif"
+  }
+]

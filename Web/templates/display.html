@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comments</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Comments</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>No</th>
+                <th>Username</th>
+                <th>Comment</th>
+                <th>CB</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for comment in comments %}
+                <tr>
+                    <td>{{ loop.index }}</td>
+                    <td><strong>{{ comment.author }}</strong></td>
+                    <td>{{ comment.summary }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <a href="/">Back</a>
+</body>
+</html>
